@@ -236,6 +236,7 @@ createAIPrompt(menu, item) {
 **Description:** ${item.description}
 
 **Sample Reference Tracks:** ${item.samples}
+*NOTE: These are for aesthetic inspiration only - DO NOT include any of these reference tracks in your playlist*
 
 ## CREATIVE CONSTRAINTS & REQUIREMENTS
 
@@ -245,6 +246,7 @@ createAIPrompt(menu, item) {
 - What songs capture the *feeling* rather than just the *topic*?
 
 **Forbidden Territory:**
+- NO reference tracks from the sample list above
 - NO obvious compilation album choices ("Classic Rock Road Trip," "80s Hits," etc.)
 - NO repeating artists within the same playlist
 - NO generic songs that could work for any similar theme
