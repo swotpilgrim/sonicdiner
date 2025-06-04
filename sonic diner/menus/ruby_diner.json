@@ -1,0 +1,34 @@
+{
+    "id": "ruby_diner",
+    "title": "RUBY'S ROUTE 66",
+    "description": "Vintage Americana vibes - hot rods, diners, sock hops",
+    "categories": {
+        "breakfast": {
+            "title": "BREAKFAST SPECIALS",
+            "description": "Morning Drive Vibes",
+            "items": {
+                "early_bird": {
+                    "title": "The Early Bird Cruiser",
+                    "description": "Mellow morning tracks with that golden hour glow. Think coffee shop meets convertible top down, perfect for sunrise drives through small towns.",
+                    "samples": "\"Blue Moon\" by The Marcels, \"Dog Days Are Over\" by Florence + The Machine, \"California Gurls\" by The Mamas & The Papas"
+                },
+                "truck_stop": {
+                    "title": "Truck Stop Coffee",
+                    "description": "Rugged, no-nonsense tracks with a working-class soul. Gritty vocals and steady rhythms for when you need that caffeine kick in musical form.",
+                    "samples": "\"Born to Be Wild\" by Steppenwolf, \"Seven Nation Army\" by The White Stripes, \"Folsom Prison Blues\" by Johnny Cash"
+                }
+            }
+        },
+        "classics": {
+            "title": "DINER CLASSICS",
+            "description": "The Essentials",
+            "items": {
+                "jukebox": {
+                    "title": "The Jukebox Special",
+                    "description": "Pure sock hop energy with irresistible hooks. The kind of songs that make you want to dance on checkered floors under neon lights.",
+                    "samples": "\"Rock Around the Clock\" by Bill Haley, \"Valerie\" by Amy Winehouse, \"Johnny B. Goode\" by Chuck Berry"
+                }
+            }
+        }
+    }
+}

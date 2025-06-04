@@ -1,0 +1,10 @@
+{
+    "menus": [
+        "ruby_diner.json",
+        "morticia_diner.json",
+        "atomic_automat.json",
+        "millennium_cafe.json",
+        "terminal_underground.json",
+        "gordons_steakhouse.json"
+    ]
+}
