@@ -1,0 +1,118 @@
+{
+    "id": "terminal_underground",
+    "title": "THE TERMINAL UNDERGROUND",
+    "description": "Hack the Planet, Stream the Future. Jack into our neon-lit server farm where hackers meet ravers, where flesh meets chrome, and where the only crime is getting caught with bad taste in music.",
+    "categories": {
+        "jack_in": {
+            "title": "JACK IN APPETIZERS",
+            "description": "Entering the Matrix - System startup sounds with anticipatory tension",
+            "items": {
+                "boot_sequence": {
+                    "title": "Boot Sequence",
+                    "description": "System startup sounds with anticipatory tension. Loading... Loading... Welcome to the real world. These tracks capture that electric moment when consciousness meets the network and reality becomes negotiable. The sound of synapses firing through fiber optic cables.",
+                    "samples": "\"Born Slippy\" by Underworld, \"Hackers Suite\" by Simon Boswell, \"Matrix Theme\" by Don Davis, \"Cyberdyne\" by Brad Fiedel"
+                },
+                "handshake": {
+                    "title": "56k Handshake",
+                    "description": "Dial-up nostalgia with digital patience. That beautiful screech of connection to the infinite. These songs remember when getting online was a ritual, a negotiation between your modem and the vast network. The poetry of digital courtship.",
+                    "samples": "\"Connection\" by Elastica, \"Electrical Storm\" by U2, \"Digital\" by Joy Division, \"Computer World\" by Kraftwerk"
+                },
+                "ghost_protocol": {
+                    "title": "Ghost Protocol",
+                    "description": "Invisible presence in the machine. You're in the system, but the system doesn't know you're there. These tracks understand the art of digital invisibility, the thrill of moving through networks like a phantom, leaving no trace but changing everything.",
+                    "samples": "\"Ghost in the Shell\" by Kenji Kawai, \"Making of a Cyborg\" by Kenji Kawai, \"Teardrop\" by Massive Attack, \"6 Underground\" by Sneaker Pimps"
+                }
+            }
+        },
+        "neuromancer": {
+            "title": "NEUROMANCER NOIR",
+            "description": "Gibson's Dystopia - Cyberpunk melancholy with neon undertones",
+            "items": {
+                "chiba_blues": {
+                    "title": "Chiba City Blues",
+                    "description": "Cyberpunk melancholy with neon undertones. Street finds its own uses for everything, including music. These tracks channel the noir poetry of Gibson's future, where technology is beautiful and terrible, and the line between human and machine blurs in the rain-soaked neon glow.",
+                    "samples": "\"Head Like a Hole\" by Nine Inch Nails, \"Hurt\" by Nine Inch Nails, \"The Perfect Drug\" by Nine Inch Nails, \"Closer\" by Nine Inch Nails"
+                },
+                "console_cowboy": {
+                    "title": "Console Cowboy",
+                    "description": "Razor-sharp digital outlaws riding data streams. Case and Molly's soundtrack to corporate infiltration. These songs understand that the new frontier isn't geographic but digital, and the cowboys of cyberspace need their own epic ballads.",
+                    "samples": "\"Love Is the Drug\" by Roxy Music, \"Blue Monday\" by New Order, \"Trans-Europe Express\" by Kraftwerk, \"I Feel Love\" by Donna Summer"
+                },
+                "sprawl_trilogy": {
+                    "title": "Sprawl Trilogy",
+                    "description": "Urban decay meets digital transcendence. The street has its own logic, the net has its own soul. These tracks capture the poetry of post-industrial civilization, where the ruins of the old world become the foundation for digital dreams.",
+                    "samples": "\"Atmosphere\" by Joy Division, \"Age of Consent\" by New Order, \"Ceremony\" by New Order, \"Bizarre Love Triangle\" by New Order"
+                }
+            }
+        },
+        "hackers_95": {
+            "title": "HACKERS '95 SPECIAL",
+            "description": "Angelina & Jonny Lee Miller - Elite hacker swagger with teenage rebellion",
+            "items": {
+                "crash_override": {
+                    "title": "Crash Override",
+                    "description": "Elite hacker swagger with teenage rebellion. Zero Cool meets Acid Burn in digital paradise. These tracks capture that beautiful moment when hacking was still romantic, when breaking into systems felt like breaking into the future itself.",
+                    "samples": "\"Halcyon + On + On\" by Orbital, \"Open Up\" by Leftfield, \"Voodoo People\" by The Prodigy, \"Cowgirl\" by Underworld"
+                },
+                "hack_gibson": {
+                    "title": "Hack the Gibson",
+                    "description": "Corporate infiltration with rave energy. Swimming through cyberspace on pure adrenaline. These songs understand that the best hacks are performed with style, that breaking the law should feel like breaking the sound barrier.",
+                    "samples": "\"Fire\" by Scooter, \"Communication\" by The Prodigy, \"Firestarter\" by The Prodigy, \"Block Rockin' Beats\" by The Chemical Brothers"
+                },
+                "cereal_killer": {
+                    "title": "Cereal Killer's Mixtape",
+                    "description": "Quirky hacker culture with underground credibility. Phreaking never sounded so good. These tracks celebrate the beautiful weirdos who saw the potential in technology before anyone else, the digital pioneers who made rebellion an art form.",
+                    "samples": "\"Connected\" by Stereo MCs, \"Mmm Skyscraper I Love You\" by Underworld, \"Are We Here\" by Orbital, \"Afro-Rican\" by Leftfield"
+                }
+            }
+        },
+        "industrial": {
+            "title": "INDUSTRIAL STRENGTH",
+            "description": "Ministry of Sound - Pure industrial aggression with mechanical precision",
+            "items": {
+                "rivet_head": {
+                    "title": "Rivet Head Special",
+                    "description": "Pure industrial aggression with mechanical precision. Flesh is weak, but the beat is strong. These tracks understand that the machine age requires machine music, that the rhythm of assembly lines can become the rhythm of liberation.",
+                    "samples": "\"Jesus Built My Hotrod\" by Ministry, \"Du Hast\" by Rammstein, \"Head Like a Hole\" by Nine Inch Nails, \"Dragula\" by Rob Zombie"
+                },
+                "factory_floor": {
+                    "title": "Factory Floor",
+                    "description": "Warehouse rave meets assembly line rhythms. Dance like your life depends on it, because it does. These songs capture the poetry of industrial spaces repurposed for joy, where the machinery of production becomes the machinery of transcendence.",
+                    "samples": "\"Firestarter\" by The Prodigy, \"Born Slippy\" by Underworld, \"Block Rockin' Beats\" by The Chemical Brothers, \"Song 2\" by Blur"
+                }
+            }
+        },
+        "wipeout": {
+            "title": "WIPEOUT ZONE",
+            "description": "PlayStation Anti-Gravity - High-speed electronic racing at 400mph",
+            "items": {
+                "ag_racing": {
+                    "title": "AG-Racing League",
+                    "description": "High-speed electronic racing at 400mph. Welcome to the future of Formula One. These tracks capture the rush of anti-gravity racing, where speed is limited only by your reflexes and the laws of physics are more like gentle suggestions.",
+                    "samples": "\"Firestarter\" by The Prodigy, \"Voodoo People\" by The Prodigy, \"Born Slippy\" by Underworld, \"Atom Bomb\" by Fluke"
+                },
+                "pulse_rifle": {
+                    "title": "Pulse Rifle",
+                    "description": "Weapon selection meets beat selection. Choose your track, choose your destruction. These songs understand that in the future, warfare and DJing become indistinguishable arts, both requiring perfect timing and devastating drops.",
+                    "samples": "\"We Have Explosive\" by The Future Sound of London, \"Papua New Guinea\" by The Future Sound of London, \"Cascade\" by The Future Sound of London, \"Dead Cities\" by The Future Sound of London"
+                }
+            }
+        },
+        "deus_ex": {
+            "title": "DEUS EX CONSPIRACY",
+            "description": "Illuminati Playlist - Corporate conspiracy with electronic surveillance",
+            "items": {
+                "unatco": {
+                    "title": "UNATCO Anthem",
+                    "description": "Corporate conspiracy with electronic surveillance. Big Brother is listening, and he likes good music. These tracks explore the soundtrack to a world where privacy is extinct but the production values are excellent.",
+                    "samples": "\"UNATCO Theme\" by Alexander Brandon, \"NYC Streets\" by Alexander Brandon, \"Synapse\" by Alexander Brandon, \"Lebedev Airfield\" by Alexander Brandon"
+                },
+                "augmentation": {
+                    "title": "Augmentation Station",
+                    "description": "Human enhancement through sonic modification. Upgrade your ears, upgrade your soul. These songs ask the eternal question: if you can improve the human body, why not start with its ability to appreciate good music?",
+                    "samples": "\"The Synth\" by Alexander Brandon, \"Naval Base\" by Alexander Brandon, \"Versalife\" by Alexander Brandon, \"MJ12 Labs\" by Alexander Brandon"
+                }
+            }
+        }
+    }
+}

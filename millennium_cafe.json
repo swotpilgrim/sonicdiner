@@ -1,0 +1,108 @@
+{
+    "id": "millennium_cafe",
+    "title": "MILLENNIUM CAFÉ",
+    "description": "Retro-Future-Chic where 1999 meets 1966. Welcome to the end of the world as we know it - when Austin Powers made mod cool again, your computer was Bondi Blue, and everyone was secretly terrified their toaster would stop working on January 1st.",
+    "categories": {
+        "y2k": {
+            "title": "Y2K APPETIZERS",
+            "description": "Millennium Bug Bites - Anxious optimism with digital undertones",
+            "items": {
+                "millennium_bug": {
+                    "title": "The Millennium Bug",
+                    "description": "Anxious optimism with digital undertones. Party like it's 1999 because your computer might not make it to 2000. These tracks capture that weird mix of excitement and dread that defined the late '90s - the future was here, but would it work?",
+                    "samples": "\"1999\" by Prince, \"Y2K\" by Fiona Apple, \"Digital\" by Joy Division, \"Paranoid Android\" by Radiohead"
+                },
+                "windows_98": {
+                    "title": "Windows 98 Welcome",
+                    "description": "Tech-optimistic startup sounds with dial-up enthusiasm. The future is here and it's beige (but in a good way). These songs embody that beautiful moment when personal computers felt personal and the internet was still a frontier to be explored.",
+                    "samples": "\"Song 2\" by Blur, \"Praise You\" by Fatboy Slim, \"Breathe Me\" by Sia, \"Born Slippy\" by Underworld"
+                },
+                "imac_translucent": {
+                    "title": "iMac Translucent",
+                    "description": "See-through sophistication in Bondi Blue. Think different, sound different, look fabulous doing it. These tracks celebrate that revolutionary moment when computers became fashion statements and technology got a sense of style.",
+                    "samples": "\"Intergalactic\" by Beastie Boys, \"Block Rockin' Beats\" by The Chemical Brothers, \"Teardrop\" by Massive Attack, \"6 Underground\" by Sneaker Pimps"
+                }
+            }
+        },
+        "austin_powers": {
+            "title": "AUSTIN POWERS REVIVAL SPECIAL",
+            "description": "Yeah Baby, Yeah! - Swinging 60s revival with 90s irony",
+            "items": {
+                "mystery": {
+                    "title": "International Man of Mystery",
+                    "description": "Swinging 60s revival with 90s irony. Shag carpets meet CD players in groovy harmony. These tracks capture that perfect moment when the '60s became cool again, complete with tongue-in-cheek awareness of their own retro-futuristic absurdity.",
+                    "samples": "\"Soul Bossa Nova\" by Quincy Jones, \"BBC\" by Belle and Sebastian, \"The New Pollution\" by Beck, \"Brimful of Asha\" by Cornershop"
+                },
+                "shagadelic": {
+                    "title": "Shagadelic Supreme",
+                    "description": "Pure mod energy with tongue-in-cheek cool. Mini skirts, maxi beats, maximum irony. These songs understand that sometimes the best way to be cool is to know exactly how ridiculous you look and own it completely.",
+                    "samples": "\"Mini Skirt\" by Esquivel, \"Gettin' Jiggy wit It\" by Will Smith, \"Electrobank\" by The Chemical Brothers, \"Setting Sun\" by The Chemical Brothers"
+                }
+            }
+        },
+        "beck_lounge": {
+            "title": "BECK'S LOSER LOUNGE",
+            "description": "Slacker Sophistication - Genre-bending brilliance with sample-heavy soul",
+            "items": {
+                "odelay": {
+                    "title": "Odelay Platter",
+                    "description": "Genre-bending brilliance with sample-heavy soul. Folk-hop for the ironically enlightened. These tracks represent that beautiful moment when lo-fi met hi-tech and somehow made perfect sense. Music for the overeducated underachiever.",
+                    "samples": "\"Where It's At\" by Beck, \"The New Pollution\" by Beck, \"Devils Haircut\" by Beck, \"Jack-Ass\" by Beck"
+                },
+                "two_turntables": {
+                    "title": "Two Turntables and a Microphone",
+                    "description": "Anti-folk meets pro-fun. Slacker anthems for the overeducated underachiever. These songs celebrate the art of caring deeply about not caring too much, performed with maximum effort to appear effortless.",
+                    "samples": "\"Loser\" by Beck, \"Sexx Laws\" by Beck, \"Mixed Bizness\" by Beck, \"Debra\" by Beck"
+                }
+            }
+        },
+        "gap_commercials": {
+            "title": "GAP COMMERCIAL CLASSICS",
+            "description": "Swing Revival Khakis - Clean-cut rebellion with Big Band revival energy",
+            "items": {
+                "khakis_swing": {
+                    "title": "Khakis Swing",
+                    "description": "Clean-cut rebellion with Big Band revival energy. Corporate casual never looked so cool. These tracks capture that bizarre late-'90s moment when swing dancing became mainstream and khakis became a lifestyle choice.",
+                    "samples": "\"Jump Jive an' Wail\" by Brian Setzer Orchestra, \"Zoot Suit Riot\" by Cherry Poppin' Daddies, \"Come On Eileen\" by Save Ferris, \"Spiderwebs\" by No Doubt"
+                },
+                "fall_gap": {
+                    "title": "Fall Into the Gap",
+                    "description": "Mainstream alternative with mass-market appeal. Safe rebellion for suburban weekends. These songs represent that sweet spot where counterculture met commerce and somehow everyone won (or at least got really comfortable jeans).",
+                    "samples": "\"Mambo No. 5\" by Lou Bega, \"Gettin' Jiggy wit It\" by Will Smith, \"Tubthumping\" by Chumbawamba, \"MMMBop\" by Hanson"
+                }
+            }
+        },
+        "translucent_tech": {
+            "title": "TRANSLUCENT TECH MENU",
+            "description": "See-Through Future - Colorful computing with translucent appeal",
+            "items": {
+                "bondi_blue": {
+                    "title": "Bondi Blue Dreams",
+                    "description": "Colorful computing with translucent appeal. Your computer as fashion statement. These tracks celebrate that revolutionary moment when technology became transparent (literally) and the future looked friendly, colorful, and just a little bit jelly-like.",
+                    "samples": "\"Around the World\" by Daft Punk, \"Da Funk\" by Daft Punk, \"One More Time\" by Daft Punk, \"Technologic\" by Daft Punk"
+                },
+                "jelly_everything": {
+                    "title": "Jelly iEverything",
+                    "description": "Transparent technology meets opaque longing. The future is clear, literally. These songs capture that moment when everything became see-through and colorful, when technology stopped hiding its inner workings and started celebrating them.",
+                    "samples": "\"Electrobank\" by The Chemical Brothers, \"It's Oh So Quiet\" by Björk, \"Army of Me\" by Björk, \"Hyperballad\" by Björk"
+                }
+            }
+        },
+        "britpop": {
+            "title": "BRITPOP INVASION",
+            "description": "Cool Britannia - The battle for Britain set to maximum volume",
+            "items": {
+                "oasis_blur": {
+                    "title": "Oasis vs. Blur",
+                    "description": "The battle for Britain set to maximum volume. Choose your side, crank your amp. These tracks represent that glorious moment when British music ruled the world again and sibling rivalry became a cultural phenomenon.",
+                    "samples": "\"Wonderwall\" by Oasis, \"Song 2\" by Blur, \"Don't Look Back in Anger\" by Oasis, \"Parklife\" by Blur"
+                },
+                "spice_phenomenon": {
+                    "title": "Spice Girls Phenomenon",
+                    "description": "Girl power with manufactured authenticity. Tell me what you want, what you really really want. These tracks captured lightning in a bottle and sold it back to the world with platform shoes and Union Jack dresses.",
+                    "samples": "\"Wannabe\" by Spice Girls, \"Spice Up Your Life\" by Spice Girls, \"Say You'll Be There\" by Spice Girls, \"2 Become 1\" by Spice Girls"
+                }
+            }
+        }
+    }
+}

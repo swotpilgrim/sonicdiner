@@ -1,0 +1,76 @@
+{
+    "id": "morticia_diner",
+    "title": "MORTICIA'S MIDNIGHT DINER",
+    "description": "Gothic horror camp meets sultry sophistication. Where Vampira serves coffee and Elvira takes your order, all while Vincent Price provides the dinner theater. A place where darkness is beautiful and monsters have the best taste in music.",
+    "categories": {
+        "appetizers": {
+            "title": "TWILIGHT APPETIZERS",
+            "description": "Easing Into Darkness - Gateway tracks to the gothic experience",
+            "items": {
+                "vampire_kiss": {
+                    "title": "Vampire's Kiss",
+                    "description": "Seductive entry-level gothic with that 'come closer' allure. Perfect for luring the innocent into darker musical territories. These tracks have just enough danger to be thrilling, just enough romance to be irresistible. Music for those who find beauty in shadows.",
+                    "samples": "\"Love Song for a Vampire\" by Annie Lennox, \"Somebody That I Used to Know\" by Gotye, \"I Put a Spell on You\" by Bette Midler, \"Disturbia\" by Rihanna"
+                },
+                "moonbeam": {
+                    "title": "Moonbeam Martini",
+                    "description": "Ethereal and mysterious with silver-screen glamour. Think Morticia Addams dancing alone in the moonlight. These tracks capture that haunting beauty of midnight elegance, where grace meets gothic and sophistication has a supernatural edge.",
+                    "samples": "\"Venus in Furs\" by The Velvet Underground, \"Sway\" by Michael Bublé, \"Strange Love\" by Depeche Mode, \"Wicked Games\" by Chris Isaak"
+                }
+            }
+        },
+        "main_courses": {
+            "title": "MAIN COURSES FROM THE CRYPT",
+            "description": "The Dark Essentials - Pure vintage horror hostess energy",
+            "items": {
+                "vampira": {
+                    "title": "The Vampira Special",
+                    "description": "Pure vintage horror hostess energy. Sultry, theatrical, and dangerously charming with that perfect bouffant attitude. These tracks embody the glamorous gothic icon who made horror sophisticated and seduction spooky. Music for late-night creature features and dramatic poses.",
+                    "samples": "\"Fever\" by Peggy Lee, \"I Put a Spell on You\" by Screamin' Jay Hawkins, \"Cry to Me\" by Solomon Burke, \"Seven Devils\" by Florence + The Machine"
+                },
+                "bride": {
+                    "title": "Bride of Frankenstein's Lament",
+                    "description": "Tragic beauty with electrical energy. Big hair, bigger emotions, and the spark of something unnatural. These songs understand that sometimes love requires a little lightning, and the most beautiful monsters are the ones who never asked to be created.",
+                    "samples": "\"Love is Strange\" by Mickey & Sylvia, \"Howl\" by Junun, \"Strange Love\" by Depeche Mode, \"Bad Things\" by Jace Everett"
+                },
+                "price": {
+                    "title": "The Vincent Price",
+                    "description": "Sophisticated horror with theatrical flair. Classy, camp, and deliciously over-the-top. These tracks channel the master of horror's wit and style - elegant terror with a wink and a perfectly timed dramatic pause. Music for those who appreciate their scares served with style.",
+                    "samples": "\"Time Warp\" from Rocky Horror, \"This is Halloween\" by Marilyn Manson, \"Welcome to My Nightmare\" by Alice Cooper, \"Somebody's Watching Me\" by Rockwell"
+                }
+            }
+        },
+        "addams_family": {
+            "title": "ADDAMS FAMILY COMFORT FOOD",
+            "description": "Campy & Kitschy - Dark but loveable, weird but warm",
+            "items": {
+                "fester": {
+                    "title": "Uncle Fester's Electric Blues",
+                    "description": "Quirky family dysfunction set to music. Dark but loveable, weird but warm. These tracks celebrate the beautiful freaks and loving outcasts who make normal families seem boring. Music that understands that strange is just another word for special.",
+                    "samples": "\"The Addams Family Theme,\" \"People Are Strange\" by The Doors, \"Creep\" by Radiohead, \"Mr. Brightside\" by The Killers"
+                },
+                "wednesday": {
+                    "title": "Wednesday's Diary",
+                    "description": "Deadpan gothic with teenage angst. Dark humor meets coming-of-age rebellion. These songs capture that perfect storm of adolescent darkness and dry wit that makes growing up gothic an art form. Music for those who wear black and read Poe.",
+                    "samples": "\"How Soon Is Now?\" by The Smiths, \"Hurt\" by Nine Inch Nails, \"Mad World\" by Gary Jules, \"Paint It Black\" by The Rolling Stones"
+                }
+            }
+        },
+        "rocky_horror": {
+            "title": "ROCKY HORROR LATE NIGHT",
+            "description": "Sexual & Theatrical - Gender-bending liberation at midnight",
+            "items": {
+                "transvestite": {
+                    "title": "Sweet Transvestite",
+                    "description": "Gender-bending, sexually charged theatrical rock. Corsets, fishnets, and absolute liberation. These tracks celebrate sexual freedom and theatrical excess with unapologetic joy. Music for those who know that the best parties happen after midnight and involve costume changes.",
+                    "samples": "\"Sweet Transvestite\" from Rocky Horror, \"I'm Not Wearing Underwear Today\" by Avenue Q, \"Rebel Rebel\" by David Bowie, \"Bad Romance\" by Lady Gaga"
+                },
+                "laboratory": {
+                    "title": "Laboratory Love",
+                    "description": "Mad scientist romance with electric passion. The beauty in the beast, the method in the madness. These songs understand that the best love stories involve a little experimentation and that passion sometimes requires protective eyewear.",
+                    "samples": "\"Touch-a Touch-a Touch Me\" from Rocky Horror, \"Weird Science\" by Oingo Boingo, \"She Blinded Me with Science\" by Thomas Dolby, \"Laboratory\" by Dua Lipa"
+                }
+            }
+        }
+    }
+}

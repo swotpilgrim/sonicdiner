@@ -1,0 +1,81 @@
+{
+    "id": "atomic_automat",
+    "title": "ATOMIC AGE AUTOMAT",
+    "description": "Tomorrow's sounds, served today in space-age style. Where the cocktails glow, the furniture floats, and every song swings with atomic energy. Welcome to humanity's optimistic tomorrow, where lounge lizards meet space cadets.",
+    "categories": {
+        "orbit": {
+            "title": "ORBIT APPETIZERS",
+            "description": "Easing Into the Space Age - Smooth entry-level cosmic sophistication",
+            "items": {
+                "satellite": {
+                    "title": "Satellite Serenade",
+                    "description": "Smooth entry-level space lounge with that weightless feeling. Perfect for adjusting to zero gravity sophistication. These tracks capture the wonder of looking down at Earth from orbit while sipping a martini in a chrome cocktail lounge floating among the stars.",
+                    "samples": "\"Fly Me to the Moon\" by Frank Sinatra, \"Space Oddity\" by David Bowie, \"Mr. Spaceman\" by The Byrds, \"Cosmic Girl\" by Jamiroquai"
+                },
+                "cocktail_mars": {
+                    "title": "Cocktail Hour on Mars",
+                    "description": "Sophisticated alien happy hour vibes. Think three-martini lunches on Saturn's rings. These songs embody that space-age bachelor pad fantasy where every surface is chrome, every chair is kidney-shaped, and the view is always stellar.",
+                    "samples": "\"Moonlight Serenade\" by Glenn Miller, \"Beyond the Sea\" by Bobby Darin, \"Airwave\" by Rank 1, \"One More Time\" by Daft Punk"
+                },
+                "jetsons": {
+                    "title": "The Jetsons Breakfast",
+                    "description": "Playful retro-future optimism with atomic family values. Push-button convenience meets space-age living. These tracks capture that beautiful moment when the future looked friendly, families were nuclear (in the best way), and robots were built to help, not replace us.",
+                    "samples": "\"The Jetsons Theme,\" \"Telstar\" by The Tornados, \"Popcorn\" by Hot Butter, \"Around the World\" by Daft Punk"
+                }
+            }
+        },
+        "bachelor_pad": {
+            "title": "BACHELOR PAD CLASSICS",
+            "description": "The Lounge Essentials - Swinging sophistication meets space-age style",
+            "items": {
+                "playboy": {
+                    "title": "Playboy After Dark",
+                    "description": "Ultimate swinging sophistication with velvet smoking jackets and kidney-shaped pools. Hugh Hefner meets Buck Rogers in the most stylish way possible. These tracks define that perfect intersection of earthly pleasure and cosmic cool.",
+                    "samples": "\"The Look of Love\" by Dusty Springfield, \"Girl from Ipanema\" by Stan Getz, \"Diamonds Are Forever\" by Shirley Bassey, \"Lady (Hear Me Tonight)\" by Modjo"
+                },
+                "tiki_titan": {
+                    "title": "Tiki Bar on Titan",
+                    "description": "Exotic space-age escapism with bamboo rockets and atomic mai tais. Polynesian paradise meets interplanetary vacation. These songs transport you to a tropical moon where the drinks are radioactive and the sunsets are over Saturn's rings.",
+                    "samples": "\"Quiet Village\" by Martin Denny, \"Sleepwalk\" by Santo & Johnny, \"Escape (The Piña Colada Song)\" by Rupert Holmes, \"Automatic\" by Pointer Sisters"
+                },
+                "starburst": {
+                    "title": "Starburst Lounge",
+                    "description": "Mid-century modern elegance with atomic patterns and boomerang coffee tables. Clean lines, bold colors, infinite possibilities. These tracks embody the optimistic geometry of the space age, where everything was designed to reach for the stars.",
+                    "samples": "\"Mack the Knife\" by Bobby Darin, \"Sway\" by Dean Martin, \"Take Five\" by Dave Brubeck, \"Electric Feel\" by MGMT"
+                }
+            }
+        },
+        "jet_set": {
+            "title": "JET SET MENU",
+            "description": "International Sophistication - Globe-trotting glamour at 30,000 feet",
+            "items": {
+                "pan_am": {
+                    "title": "Pan Am First Class",
+                    "description": "Globe-trotting glamour at 30,000 feet. Cosmopolitan cool with passport stamps from every planet. These tracks capture that golden age of aviation when flying was an event, stewardesses were space-age goddesses, and every destination was an adventure.",
+                    "samples": "\"Come Fly With Me\" by Frank Sinatra, \"Jet\" by Paul McCartney, \"L'Aventurier\" by Indochine, \"Around the World\" by Red Hot Chili Peppers"
+                },
+                "casino_royale": {
+                    "title": "Casino Royale",
+                    "description": "Secret agent sophistication with a license to thrill. Baccarat tables on space stations, vodka martinis in zero-g. These songs understand that the most dangerous game is always played in the most elegant settings, whether on Earth or in orbit.",
+                    "samples": "\"Goldfinger\" by Shirley Bassey, \"Secret Agent Man\" by Johnny Rivers, \"Thunderball\" by Tom Jones, \"Pump It\" by Black Eyed Peas"
+                }
+            }
+        },
+        "barbarella": {
+            "title": "BARBARELLA'S BOUDOIR",
+            "description": "Sexy Space Age - Futuristic sexuality with go-go boots and silver catsuits",
+            "items": {
+                "seductress": {
+                    "title": "Intergalactic Seductress",
+                    "description": "Futuristic sexuality with go-go boots and silver catsuits. Jane Fonda meets Flash Gordon in the best possible way. These tracks channel that groovy space-age sexuality where love is free, bodies are art, and pleasure is the highest form of cosmic consciousness.",
+                    "samples": "\"Love Is Blue\" by Paul Mauriat, \"Mellow Yellow\" by Donovan, \"Jane\" by Jefferson Starship, \"Digital Love\" by Daft Punk"
+                },
+                "chrome_hearts": {
+                    "title": "Chrome Hearts Club",
+                    "description": "Metallic romance in the vacuum of space. Robot lovers and android dreams. These songs explore what happens when hearts are chrome and love is programmed, but somehow still feels real. The poetry of artificial emotion.",
+                    "samples": "\"I Dream of Jeannie\" theme, \"Telstar\" by The Tornados, \"Mr. Roboto\" by Styx, \"Robot Rock\" by Daft Punk"
+                }
+            }
+        }
+    }
+}

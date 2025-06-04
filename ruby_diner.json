@@ -1,0 +1,65 @@
+{
+    "id": "ruby_diner",
+    "title": "RUBY'S ROUTE 66",
+    "description": "Vintage Americana vibes where hot rods meet diners and every song tells a story of the open road. Think chrome bumpers, checkered floors, cherry pie, and the eternal summer of teenage dreams.",
+    "categories": {
+        "breakfast": {
+            "title": "BREAKFAST SPECIALS",
+            "description": "Morning Drive Vibes - Perfect for sunrise cruises and coffee shop contemplation",
+            "items": {
+                "early_bird": {
+                    "title": "The Early Bird Cruiser",
+                    "description": "Mellow morning tracks with that golden hour glow. Think coffee shop meets convertible top down, perfect for sunrise drives through small towns. These songs capture that optimistic start-of-day feeling when anything seems possible and the road stretches endlessly ahead. The musical equivalent of watching the sun come up over empty highways.",
+                    "samples": "\"Blue Moon\" by The Marcels, \"Dog Days Are Over\" by Florence + The Machine, \"California Gurls\" by The Mamas & The Papas, \"Here Comes the Sun\" by The Beatles"
+                },
+                "truck_stop": {
+                    "title": "Truck Stop Coffee",
+                    "description": "Rugged, no-nonsense tracks with a working-class soul. Gritty vocals and steady rhythms for when you need that caffeine kick in musical form. These are songs for the early shift, the long haul, and the honest work that keeps America moving. Music that understands the value of calloused hands and genuine effort.",
+                    "samples": "\"Born to Be Wild\" by Steppenwolf, \"Seven Nation Army\" by The White Stripes, \"Folsom Prison Blues\" by Johnny Cash, \"Working Man\" by Rush"
+                },
+                "sunday_vinyl": {
+                    "title": "Sunday Morning Vinyl",
+                    "description": "Lazy, warm tracks that feel like sleeping in and spinning records. Soft harmonies with that vintage fuzz around the edges. Perfect for those slow mornings when time doesn't matter and the world can wait. These songs understand the art of doing nothing beautifully.",
+                    "samples": "\"Dream a Little Dream\" by The Mamas & The Papas, \"Ho Hey\" by The Lumineers, \"At Last\" by Etta James, \"Sunday Girl\" by Blondie"
+                }
+            }
+        },
+        "classics": {
+            "title": "DINER CLASSICS", 
+            "description": "The Essentials - Timeless tracks that define the American diner experience",
+            "items": {
+                "jukebox": {
+                    "title": "The Jukebox Special",
+                    "description": "Pure sock hop energy with irresistible hooks. The kind of songs that make you want to dance on checkered floors under neon lights. These tracks have that magnetic pull that draws you to the dance floor, whether you're in poodle skirts or leather jackets. Music that makes the whole diner feel alive.",
+                    "samples": "\"Rock Around the Clock\" by Bill Haley, \"Johnny B. Goode\" by Chuck Berry, \"Great Balls of Fire\" by Jerry Lee Lewis, \"Valerie\" by Amy Winehouse"
+                },
+                "heartbreak": {
+                    "title": "Hot Rod Heartbreak",
+                    "description": "Emotional cruising anthems about love, loss, and open roads. Big choruses with that ache of longing and freedom. These are the songs you play when you're driving away from something or toward something, not sure which. They understand that sometimes the journey is more important than the destination.",
+                    "samples": "\"Thunder Road\" by Bruce Springsteen, \"Somebody Told Me\" by The Killers, \"Only the Lonely\" by Roy Orbison, \"Electric Feel\" by MGMT"
+                },
+                "drive_in": {
+                    "title": "Drive-In Double Feature",
+                    "description": "Cinematic tracks that feel like movie soundtracks to your own vintage romance. Orchestral swells meet teenage dreams under starlit skies. These songs capture that magical moment when real life feels like the movies, and every kiss could be the one that changes everything.",
+                    "samples": "\"Stand by Me\" by Ben E. King, \"Young Folks\" by Peter Bjorn and John, \"Unchained Melody\" by The Righteous Brothers, \"Time to Dance\" by The Sounds"
+                }
+            }
+        },
+        "milkshakes": {
+            "title": "MILKSHAKES & MALTS",
+            "description": "Sweet & Nostalgic - Tracks that taste like your favorite childhood memories",
+            "items": {
+                "strawberry": {
+                    "title": "Strawberry Soda Pop",
+                    "description": "Bubbly, innocent tracks with that first-love sweetness. Pure joy with a retro candy coating. These songs capture that fizzy excitement of young romance and summer adventures. Music that makes you feel like you're floating on air and anything is possible.",
+                    "samples": "\"Lollipop\" by The Chordettes, \"I Want Candy\" by Bow Wow Wow, \"Sugar Sugar\" by The Archies, \"Good as Hell\" by Lizzo"
+                },
+                "chocolate": {
+                    "title": "Chocolate Malt Memories",
+                    "description": "Rich, indulgent nostalgia tracks that hit you right in the feelings. Warm harmonies and wistful melodies that taste like childhood summers and feel like coming home. These songs understand that the sweetest moments are often bittersweet.",
+                    "samples": "\"In the Still of the Night\" by The Five Satins, \"Vienna\" by Billy Joel, \"The Way You Look Tonight\" by Frank Sinatra, \"Someone Like You\" by Adele"
+                }
+            }
+        }
+    }
+}
