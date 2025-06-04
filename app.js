@@ -12,7 +12,9 @@ class SonicDiner {
             'california_surf.json',
             'soviet_brutalist.json',
             'miami_vice.json',
-            'disco_fever.json'
+            'disco_fever.json',
+            'japanese_bubble.json',
+            'studio_54.json'
         ];
     }
 
