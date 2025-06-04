@@ -66,8 +66,8 @@ body {
 }
 
 .nav-level {
-    border-right: 1px solid var(--medium-gray);
-    background: var(--light-gray);
+    /* border-right: 1px solid var(--medium-gray); */
+    background: var(--white);
 }
 
 .nav-container {
@@ -93,7 +93,7 @@ body {
 
 .nav-item {
     padding: 20px 30px;
-    border-right: 1px solid var(--medium-gray);
+    /* border-right: 1px solid var(--medium-gray); */
     cursor: pointer;
     transition: all 0.3s ease;
     text-transform: uppercase;
