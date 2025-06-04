@@ -14,7 +14,7 @@ class SonicDiner {
 
     async init() {
         await this.loadMenus();
-        this.setupHomeClick(); // Add this
+        this.setupHomeClick();
         this.showMenus();
     }
 
@@ -68,7 +68,7 @@ class SonicDiner {
             grid.appendChild(card);
         });
         
-        document.getElementById('backButton').classList.remove('hidden');
+        document.getElementById('backButton').classList.add('hidden');
     }
 
     showItems(menuId, categoryId) {
@@ -85,7 +85,7 @@ class SonicDiner {
             grid.appendChild(card);
         });
         
-        document.getElementById('backButton').classList.remove('hidden');
+        document.getElementById('backButton').classList.add('hidden');
     }
 
     createCard(title, description, samples, onClick) {
@@ -114,31 +114,43 @@ class SonicDiner {
 
     updateBreadcrumb() {
         const breadcrumb = document.getElementById('breadcrumb');
+        
         if (this.currentPath.length === 0) {
-            breadcrumb.innerHTML = 'SELECT <span>MENU</span>';
+            breadcrumb.innerHTML = '<div class="breadcrumb-nav">SELECT <span>MENU</span></div>';
         } else if (this.currentPath.length === 1) {
-            const menuTitle = this.menus[this.currentPath[0]].title;
-            breadcrumb.innerHTML = `<span>${menuTitle}</span> // SELECT <span>CATEGORY</span>`;
+            const menu = this.menus[this.currentPath[0]];
+            breadcrumb.innerHTML = `
+                <div class="breadcrumb-nav">
+                    <span class="breadcrumb-link" onclick="app.showMenus()">HOME</span> // 
+                    <span class="breadcrumb-current">${menu.title}</span> // 
+                    SELECT <span>CATEGORY</span>
+                </div>
+                <div class="diner-description">${menu.description}</div>
+            `;
         } else if (this.currentPath.length === 2) {
-            const menuTitle = this.menus[this.currentPath[0]].title;
-            const categoryTitle = this.menus[this.currentPath[0]].categories[this.currentPath[1]].title;
-            breadcrumb.innerHTML = `<span>${menuTitle}</span> // <span>${categoryTitle}</span> // SELECT <span>ITEM</span>`;
+            const menu = this.menus[this.currentPath[0]];
+            const category = menu.categories[this.currentPath[1]];
+            breadcrumb.innerHTML = `
+                <div class="breadcrumb-nav">
+                    <span class="breadcrumb-link" onclick="app.showMenus()">HOME</span> // 
+                    <span class="breadcrumb-link" onclick="app.showCategories('${this.currentPath[0]}')">${menu.title}</span> // 
+                    <span class="breadcrumb-current">${category.title}</span> // 
+                    SELECT <span>ITEM</span>
+                </div>
+            `;
         }
     }
 
     updateNavigation() {
-        // Clear all navigation levels
         document.getElementById('menuNav').innerHTML = '';
         document.getElementById('categoryNav').innerHTML = '';
         document.getElementById('itemNav').innerHTML = '';
 
-        // Only show menu navigation - always visible
         Object.values(this.menus).forEach(menu => {
             const navItem = this.createNavItem(menu.title, this.currentPath[0] === menu.id, () => this.showCategories(menu.id));
             document.getElementById('menuNav').appendChild(navItem);
         });
 
-        // Hide the other navigation levels when not needed
         const categoryNav = document.getElementById('categoryNav').parentElement;
         const itemNav = document.getElementById('itemNav').parentElement;
         
