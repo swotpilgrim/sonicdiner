@@ -226,8 +226,8 @@ class SonicDiner {
         this.showPromptModal(item.title, prompt);
     }
 
-    createAIPrompt(menu, item) {
-        const prompt = `Create a playlist for "${item.title}" based on this aesthetic description:
+createAIPrompt(menu, item) {
+    const prompt = `Create a playlist for "${item.title}" based on this aesthetic description:
 
 **Theme:** ${menu.title}
 **Overall Vibe:** ${menu.description}
@@ -237,17 +237,55 @@ class SonicDiner {
 
 **Sample Reference Tracks:** ${item.samples}
 
-Please create a 15-20 song playlist that captures this exact aesthetic and mood. Include:
-- A mix of obvious classics and deep cuts
-- Modern songs that fit the vibe
-- Brief explanation of why each song fits
-- Organize by energy/flow for good listening experience
+## CREATIVE CONSTRAINTS & REQUIREMENTS
 
-Format as a numbered list with: Song Title - Artist (brief reason why it fits)
-Then append a simple list formatted: Title - Artist`;
+**Aesthetic Archaeology:** You are a cultural detective. This playlist must capture the EXACT sensory experience, time period, and social context described. Think about:
+- What would actually be playing in this specific environment?
+- What regional/subcultural music scenes connect to this aesthetic?
+- What songs capture the *feeling* rather than just the *topic*?
 
-        return prompt;
-    }
+**Forbidden Territory:**
+- NO obvious compilation album choices ("Classic Rock Road Trip," "80s Hits," etc.)
+- NO repeating artists within the same playlist
+- NO generic songs that could work for any similar theme
+- NO more than 2 songs that most people would immediately recognize
+
+**Required Diversity:**
+- Include at least 3 deep cuts or lesser-known tracks
+- Span multiple decades while maintaining aesthetic coherence
+- Include at least 2 songs from different genres that somehow fit the vibe
+- Include at least 1 instrumental track that captures the mood
+
+**Sensory Specificity:**
+- Every song must sound like it belongs in the EXACT environment described
+- Consider: lighting, time of day, social dynamics, economic conditions, technology level
+- Think about what the people in this space would ACTUALLY listen to, not what sounds thematically appropriate
+
+**Cultural Context:**
+- Consider the specific subcultures, regions, and time periods involved
+- Research actual music scenes that would connect to this aesthetic
+- Think about how music consumption worked in this environment (jukebox, radio, personal choice, etc.)
+
+**Modern Integration:**
+- Include 2-3 contemporary songs that genuinely capture the vintage aesthetic (not just retro-styled music)
+- These should sound like they could time-travel into the original era
+
+Please create a 15-20 song playlist that captures this exact aesthetic and mood. Each song choice must be defensible based on the specific cultural/aesthetic context described.
+
+**Format Requirements:**
+1. Full playlist with detailed explanations (why each song fits the SPECIFIC aesthetic, not just the general theme)
+2. Simple list format for easy copying
+3. Organize by energy/flow for optimal listening experience
+4. Each explanation should reference specific details from the aesthetic description
+
+**Quality Check:** Before finalizing, ask yourself:
+- Would this playlist actually work in the described environment?
+- Does each song contribute something unique to the aesthetic?
+- Have I avoided lazy, obvious choices?
+- Does the playlist tell a story that matches the concept?`;
+
+    return prompt;
+}
 
     showPromptModal(title, prompt) {
         const modal = document.createElement('div');
