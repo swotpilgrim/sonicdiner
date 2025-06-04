@@ -243,7 +243,8 @@ Please create a 15-20 song playlist that captures this exact aesthetic and mood.
 - Brief explanation of why each song fits
 - Organize by energy/flow for good listening experience
 
-Format as a numbered list with: Song Title - Artist (brief reason why it fits)`;
+Format as a numbered list with: Song Title - Artist (brief reason why it fits)
+Then append a simple list formatted: Title - Artist`;
 
         return prompt;
     }
