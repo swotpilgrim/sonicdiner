@@ -1,0 +1,18 @@
+{
+    "id": "california_surf",
+    "title": "CALIFORNIA SURF LODGE",
+    "description": "Endless summer vibes where the Beach Boys meet Big Wednesday. Sun-bleached hair, VW buses, and that perfect wave that's always just around the next point. Hang ten, dude.",
+    "categories": {
+        "beach_boys": {
+            "title": "BEACH BOYS BREAKFAST",
+            "description": "Good Vibrations - Harmony-rich surf pop with California dreaming",
+            "items": {
+                "good_vibrations": {
+                    "title": "Good Vibrations Special",
+                    "description": "Pure California harmony with that Pet Sounds sophistication. Every song sounds like driving PCH with the top down and the ocean on your right.",
+                    "samples": "\"Good Vibrations\" by The Beach Boys, \"California Gurls\" by The Beach Boys, \"Surfin' USA\" by The Beach Boys"
+                }
+            }
+        }
+    }
+}

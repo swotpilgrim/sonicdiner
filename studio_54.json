@@ -1,0 +1,45 @@
+{
+    "id": "studio_54",
+    "title": "STUDIO 54 VELVET ROPE",
+    "description": "Where Bianca Jagger rode a white horse and Andy Warhol took pictures. Hedonistic disco decadence with champagne bubbles and mirror balls. The most exclusive party that never ended, until it did.",
+    "categories": {
+        "disco_fever": {
+            "title": "DISCO FEVER",
+            "description": "Classic 70s Disco - Four-on-the-floor beats with orchestral arrangements",
+            "items": {
+                "white_horse": {
+                    "title": "White Horse Special",
+                    "description": "Pure disco decadence with orchestral arrangements and that unmistakable four-on-the-floor beat. Bianca Jagger's birthday party in musical form. Music for when excess was an art form.",
+                    "samples": "\"I Will Survive\" by Gloria Gaynor, \"Le Freak\" by Chic, \"Dancing Queen\" by ABBA, \"Good Times\" by Chic"
+                },
+                "velvet_rope": {
+                    "title": "Behind the Velvet Rope",
+                    "description": "Exclusive VIP energy with that untouchable glamour. You're not just dancing, you're making history. These tracks understand that some parties are so legendary they become mythology.",
+                    "samples": "\"Love to Love You Baby\" by Donna Summer, \"Dancing Machine\" by Jackson 5, \"Rock the Boat\" by Hues Corporation, \"YMCA\" by Village People"
+                }
+            }
+        },
+        "cocaine_cowboys": {
+            "title": "COCAINE COWBOYS",
+            "description": "Miami Vice Meets Studio 54 - Hedonistic excess with a danger edge",
+            "items": {
+                "powder_room": {
+                    "title": "Powder Room Politics",
+                    "description": "Dangerous glamour with that edgy 70s sophistication. Equal parts seductive and reckless. These tracks capture the beautiful danger of a scene that burned too bright and too fast.",
+                    "samples": "\"Cocaine\" by Eric Clapton, \"White Lines\" by Grandmaster Flash, \"Boogie Wonderland\" by Earth Wind & Fire, \"Bad Girls\" by Donna Summer"
+                }
+            }
+        },
+        "celebrity_culture": {
+            "title": "CELEBRITY SANCTUARY",
+            "description": "Warhol's World - Where fame meets art meets hedonism",
+            "items": {
+                "factory_after_hours": {
+                    "title": "Factory After Hours",
+                    "description": "Artistic decadence meets pop culture revolution. Andy's camera is always rolling and everyone's a star. Music for when art and celebrity and nightlife all became the same beautiful thing.",
+                    "samples": "\"Fame\" by David Bowie, \"Walk on the Wild Side\" by Lou Reed, \"Heart of Glass\" by Blondie, \"I'm Coming Out\" by Diana Ross"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "miami_vice",
+    "title": "MIAMI VICE MARINA",
+    "description": "Neon nights and cocaine cowboys. Where Don Johnson's stubble meets Jan Hammer's synthesizers. Welcome to the 1980s, where every sunset looks like a movie and every car chase has a soundtrack.",
+    "categories": {
+        "synthwave": {
+            "title": "SYNTHWAVE SUNSET",
+            "description": "Jan Hammer's Dream - Synthesized perfection with that Vice vibe",
+            "items": {
+                "crockett_theme": {
+                    "title": "Crockett's Theme", 
+                    "description": "Pure 80s synthesizer magic. Every song sounds like driving a Ferrari Testarossa through neon-lit Miami streets.",
+                    "samples": "\"Crockett's Theme\" by Jan Hammer, \"In the Air Tonight\" by Phil Collins"
+                }
+            }
+        }
+    }
+}

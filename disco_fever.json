@@ -1,0 +1,18 @@
+{
+    "id": "disco_fever",
+    "title": "DISCO FEVER PALACE", 
+    "description": "Saturday Night Fever meets Studio 54's little sister. Where John Travolta's moves meet the Bee Gees' beats. Get down tonight, because the night is young and the disco ball is spinning.",
+    "categories": {
+        "saturday_night": {
+            "title": "SATURDAY NIGHT FEVER",
+            "description": "Bee Gees Classics - That staying alive energy",
+            "items": {
+                "staying_alive": {
+                    "title": "Staying Alive Special",
+                    "description": "Pure disco energy with that unmistakable Bee Gees falsetto. Music for when you need to strut down the street like you own the sidewalk.",
+                    "samples": "\"Staying Alive\" by Bee Gees, \"Dancing Queen\" by ABBA"
+                }
+            }
+        }
+    }
+}

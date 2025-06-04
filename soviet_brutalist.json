@@ -1,0 +1,18 @@
+{
+    "id": "soviet_brutalist", 
+    "title": "SOVIET BRUTALIST CAFÉ",
+    "description": "Concrete dreams and underground scenes. Where Eastern Bloc architecture meets post-punk rebellion. The future was supposed to be built from concrete, and somehow it was beautiful.",
+    "categories": {
+        "post_punk": {
+            "title": "POST-PUNK SPECIALS",
+            "description": "Cold War Cool - Angular rhythms meet concrete aesthetics",
+            "items": {
+                "concrete_dreams": {
+                    "title": "Concrete Dreams",
+                    "description": "Brutalist beats for brutalist times. These tracks understand that sometimes the most beautiful music comes from the greyest places.",
+                    "samples": "\"Love Will Tear Us Apart\" by Joy Division, \"Blue Monday\" by New Order"
+                }
+            }
+        }
+    }
+}

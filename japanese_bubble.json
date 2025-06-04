@@ -1,0 +1,45 @@
+{
+    "id": "japanese_bubble",
+    "title": "NEON TOKYO BUBBLE CAFÉ",
+    "description": "Economic excess meets aesthetic perfection. Where city pop meets future funk, salary men dance in mirror ball offices, and every coin drop sounds like money. Welcome to 1980s Japan, where tomorrow was always just one more yen away.",
+    "categories": {
+        "city_pop": {
+            "title": "CITY POP CLASSICS",
+            "description": "Smooth Urban Sophistication - Yacht rock meets Tokyo nightlife",
+            "items": {
+                "midnight_cruising": {
+                    "title": "Midnight Cruising",
+                    "description": "Smooth urban sophistication with saxophone solos and electric pianos. Honda Civic meets disco ball in the best possible way. These tracks capture that perfect moment when Japanese pop learned to swing with American soul.",
+                    "samples": "\"Plastic Love\" by Mariya Takeuchi, \"4:00AM\" by Taeko Onuki, \"Stay With Me\" by Miki Matsubara, \"Sparkle\" by Tatsuro Yamashita"
+                },
+                "neon_nights": {
+                    "title": "Neon Nights",
+                    "description": "Late-night Tokyo vibes with synthesized perfection. Every street corner has a vending machine and every vending machine plays the perfect song. Music for walking through Shibuya at 2 AM when the city never sleeps.",
+                    "samples": "\"Magic Ways\" by Tatsuro Yamashita, \"Sweetest Music\" by Seiko Matsuda, \"Bay City\" by Junko Yagami, \"Telephone Number\" by Junko Ohashi"
+                }
+            }
+        },
+        "future_funk": {
+            "title": "FUTURE FUNK ARCADE",
+            "description": "Vaporwave's Energetic Cousin - Chopped and screwed disco meets anime aesthetics",
+            "items": {
+                "pachinko_paradise": {
+                    "title": "Pachinko Paradise",
+                    "description": "Hyper-filtered disco samples meets arcade culture. Every ball drop is a beat drop. These tracks understand that the future was supposed to be more colorful and the past was always more funky than we remembered.",
+                    "samples": "\"Night Tempo\" by Night Tempo, \"Desired\" by Desired, \"Macross 82-99\" by Macross 82-99, \"Yung Bae\" by Yung Bae"
+                }
+            }
+        },
+        "economic_bubble": {
+            "title": "ECONOMIC BUBBLE LOUNGE",
+            "description": "Excess and Optimism - When Japan thought it owned the future",
+            "items": {
+                "salary_man_swagger": {
+                    "title": "Salary Man Swagger",
+                    "description": "Corporate confidence with jazz fusion sophistication. Every Honda is a Lamborghini and every office building reaches toward tomorrow. Music for when the economy was so good it felt like cheating.",
+                    "samples": "\"Breezin'\" by George Benson, \"Morning Dance\" by Spyro Gyra, \"Feels So Good\" by Chuck Mangione, \"Countdown\" by Jupiter"
+                }
+            }
+        }
+    }
+}

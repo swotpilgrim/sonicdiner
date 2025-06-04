@@ -1,0 +1,40 @@
+{
+    "id": "gordons_steakhouse",
+    "title": "GORDON'S GOLDEN BULL STEAKHOUSE",
+    "description": "Wall Street yuppie excess meets Miami Vice swagger. Where Gordon Gekko orders his steaks bloody and his cocaine pure. Greed is good, but the playlist is better. Power ties optional, power moves mandatory.",
+    "categories": {
+        "power_breakfast": {
+            "title": "POWER BREAKFAST",
+            "description": "Corporate Domination - Starting the day with market-opening energy",
+            "items": {
+                "morning_trades": {
+                    "title": "Morning Trades",
+                    "description": "Corporate domination with that market-opening energy. Every song sounds like closing a million-dollar deal before 9 AM. Music for hostile takeovers and hostile attitudes.",
+                    "samples": "\"Money for Nothing\" by Dire Straits, \"Working for the Weekend\" by Loverboy, \"Everybody Wants to Rule the World\" by Tears for Fears, \"Take on Me\" by a-ha"
+                }
+            }
+        },
+        "corporate_raiders": {
+            "title": "CORPORATE RAIDERS",
+            "description": "Hostile Takeover Anthems - Music for leveraged buyouts and power plays",
+            "items": {
+                "hostile_takeover": {
+                    "title": "Hostile Takeover",
+                    "description": "Ruthless corporate anthems with synthesized aggression. These tracks understand that business is war and war requires a soundtrack. Music for boardroom battles and insider trading.",
+                    "samples": "\"Money\" by Pink Floyd, \"Burning Down the House\" by Talking Heads, \"Sweet Dreams\" by Eurythmics, \"Blue Monday\" by New Order"
+                }
+            }
+        },
+        "american_psycho": {
+            "title": "AMERICAN PSYCHO SPECIALS",
+            "description": "Patrick Bateman's Playlist - Sophisticated psychopathy with impeccable taste",
+            "items": {
+                "business_card": {
+                    "title": "Business Card Envy",
+                    "description": "Sophisticated psychopathy with impeccable production values. Patrick Bateman's morning routine set to music. These tracks understand that murder and mergers require the same attention to detail.",
+                    "samples": "\"In the Air Tonight\" by Phil Collins, \"Sussudio\" by Phil Collins, \"Hip to Be Square\" by Huey Lewis, \"True\" by Spandau Ballet"
+                }
+            }
+        }
+    }
+}
