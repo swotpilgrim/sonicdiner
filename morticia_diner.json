@@ -16,6 +16,11 @@
                     "title": "Moonbeam Martini",
                     "description": "Ethereal and mysterious with silver-screen glamour. Think Morticia Addams dancing alone in the moonlight. These tracks capture that haunting beauty of midnight elegance, where grace meets gothic and sophistication has a supernatural edge.",
                     "samples": "\"Venus in Furs\" by The Velvet Underground, \"Sway\" by Michael Bublé, \"Strange Love\" by Depeche Mode, \"Wicked Games\" by Chris Isaak"
+                },
+                "gothic_martini": {
+                    "title": "Gothic Martini",
+                    "description": "Sophisticated darkness with a twist of lime and doom. Edgar Allan Poe meets James Bond in the most elegant way possible. These tracks understand that the best cocktails are served with a side of existential dread.",
+                    "samples": "\"Gloomy Sunday\" by Billie Holiday, \"Mack the Knife\" by Bobby Darin, \"Paint It Black\" by The Rolling Stones, \"House of the Rising Sun\" by The Animals"
                 }
             }
         },
@@ -53,6 +58,11 @@
                     "title": "Wednesday's Diary",
                     "description": "Deadpan gothic with teenage angst. Dark humor meets coming-of-age rebellion. These songs capture that perfect storm of adolescent darkness and dry wit that makes growing up gothic an art form. Music for those who wear black and read Poe.",
                     "samples": "\"How Soon Is Now?\" by The Smiths, \"Hurt\" by Nine Inch Nails, \"Mad World\" by Gary Jules, \"Paint It Black\" by The Rolling Stones"
+                },
+                "cousin_itt": {
+                    "title": "Cousin Itt's Hair Metal",
+                    "description": "Unintelligible but undeniably groovy. Sometimes the best communication happens without words, just pure vibes and fabulous hair. These tracks celebrate the beauty of being misunderstood.",
+                    "samples": "\"Louie Louie\" by The Kingsmen, \"Wild Thing\" by The Troggs, \"96 Tears\" by ? and the Mysterians, \"Woolly Bully\" by Sam the Sham"
                 }
             }
         },
@@ -69,6 +79,11 @@
                     "title": "Laboratory Love",
                     "description": "Mad scientist romance with electric passion. The beauty in the beast, the method in the madness. These songs understand that the best love stories involve a little experimentation and that passion sometimes requires protective eyewear.",
                     "samples": "\"Touch-a Touch-a Touch Me\" from Rocky Horror, \"Weird Science\" by Oingo Boingo, \"She Blinded Me with Science\" by Thomas Dolby, \"Laboratory\" by Dua Lipa"
+                },
+                "midnight_movie": {
+                    "title": "Midnight Movie Madness",
+                    "description": "Cult classic energy with audience participation required. When movies become rituals and rituals become religion. These tracks understand that the best entertainment happens after normal people go to bed.",
+                    "samples": "\"Science Fiction/Double Feature\" from Rocky Horror, \"Dammit Janet\" from Rocky Horror, \"There's a Light\" from Rocky Horror, \"Wild and Untamed Thing\" from Rocky Horror"
                 }
             }
         }

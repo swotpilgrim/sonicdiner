@@ -58,6 +58,32 @@
                     "title": "Chocolate Malt Memories",
                     "description": "Rich, indulgent nostalgia tracks that hit you right in the feelings. Warm harmonies and wistful melodies that taste like childhood summers and feel like coming home. These songs understand that the sweetest moments are often bittersweet.",
                     "samples": "\"In the Still of the Night\" by The Five Satins, \"Vienna\" by Billy Joel, \"The Way You Look Tonight\" by Frank Sinatra, \"Someone Like You\" by Adele"
+                },
+                "vanilla_dreams": {
+                    "title": "Vanilla Dream Float",
+                    "description": "Classic comfort with wholesome sweetness. Pure Americana in musical form, like apple pie but with better harmonies. These songs capture that timeless innocence when life was simpler and love was sweeter.",
+                    "samples": "\"Mr. Sandman\" by The Chordettes, \"Earth Angel\" by The Penguins, \"Sh-Boom\" by The Chords, \"Only You\" by The Platters"
+                }
+            }
+        },
+        "neon_nights": {
+            "title": "NEON NIGHTS SPECIAL",
+            "description": "After Hours Americana - When the neon signs buzz and the highways empty",
+            "items": {
+                "midnight_highway": {
+                    "title": "Midnight Highway Cruise",
+                    "description": "Open road anthems for when the rest of the world is asleep. Chrome reflects streetlights and every mile marker tells a story. These tracks capture that freedom of driving through empty towns at 2 AM, when America belongs to night shift workers and insomniacs with good taste in music.",
+                    "samples": "\"Midnight Train to Georgia\" by Gladys Knight, \"Born to Run\" by Bruce Springsteen, \"Life in the Fast Lane\" by Eagles, \"Roadhouse Blues\" by The Doors"
+                },
+                "electric_cherry": {
+                    "title": "Electric Cherry Pie",
+                    "description": "Buzzing neon energy with retro-electric vibes. Hot coffee and hotter music for when the diner becomes your sanctuary from the darkness outside. These songs understand that sometimes the most beautiful moments happen under fluorescent lights at 3 AM.",
+                    "samples": "\"Cherry Pie\" by Warrant, \"Neon Moon\" by Brooks & Dunn, \"Nighttime\" by Pretty Lights, \"Electric Avenue\" by Eddy Grant"
+                },
+                "trucker_radio": {
+                    "title": "Trucker Radio",
+                    "description": "CB radio classics and highway hymns. Songs for the long-haul drivers who keep America moving through the night. These tracks know that the road never sleeps and neither do the people who call it home.",
+                    "samples": "\"Convoy\" by C.W. McCall, \"Six Days on the Road\" by Dave Dudley, \"Truck Drivin' Man\" by Buck Owens, \"East Bound and Down\" by Jerry Reed"
                 }
             }
         }

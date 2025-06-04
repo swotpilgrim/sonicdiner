@@ -11,6 +11,79 @@
                     "title": "Concrete Dreams",
                     "description": "Brutalist beats for brutalist times. These tracks understand that sometimes the most beautiful music comes from the greyest places.",
                     "samples": "\"Love Will Tear Us Apart\" by Joy Division, \"Blue Monday\" by New Order"
+                },
+                "warsaw_ghetto": {
+                    "title": "Warsaw Ghetto",
+                    "description": "Joy Division's Manchester melancholy meets Eastern European existentialism. When industrial decline becomes industrial music and depression becomes art. These tracks find beauty in the ruins of optimism.",
+                    "samples": "\"Warsaw\" by Joy Division, \"Leaders of Men\" by Joy Division, \"Digital\" by Joy Division, \"Autosuggestion\" by Joy Division"
+                },
+                "factory_records": {
+                    "title": "Factory Records Session",
+                    "description": "Tony Wilson's Manchester vision with Haçienda heartbeats. When record labels become cultural movements and nightclubs become cathedrals. Music for when commerce and art accidentally create something transcendent.",
+                    "samples": "\"Ceremony\" by New Order, \"Procession\" by New Order, \"Everything's Gone Green\" by New Order, \"Temptation\" by New Order"
+                }
+            }
+        },
+        "eastern_bloc": {
+            "title": "EASTERN BLOC ELECTRONICA",
+            "description": "Iron Curtain Innovation - When synths met state socialism",
+            "items": {
+                "berlin_wall": {
+                    "title": "Berlin Wall Sessions",
+                    "description": "Cold War tension with electronic precision. Kraftwerk meets KGB surveillance in the most beautiful way possible. These tracks understand that the best revolutions happen at 120 BPM.",
+                    "samples": "\"Trans-Europe Express\" by Kraftwerk, \"Computer World\" by Kraftwerk, \"The Model\" by Kraftwerk, \"Autobahn\" by Kraftwerk"
+                },
+                "red_square": {
+                    "title": "Red Square Rave",
+                    "description": "State-sponsored synthesizers with underground spirit. When the party line becomes the party music. These songs capture that beautiful moment when oppression accidentally created the perfect dance floor.",
+                    "samples": "\"Moscow Discow\" by Telex, \"Rasputin\" by Boney M, \"Back in the USSR\" by The Beatles, \"Wind of Change\" by Scorpions"
+                },
+                "checkpoint_charlie": {
+                    "title": "Checkpoint Charlie Chillout",
+                    "description": "Border crossing beats with passport stamping rhythms. Every song sounds like sneaking past guards while looking fabulous. Music for when your rebellion requires proper documentation.",
+                    "samples": "\"Vienna\" by Ultravox, \"Enola Gay\" by Orchestral Manoeuvres in the Dark, \"Tainted Love\" by Soft Cell, \"Don't You (Forget About Me)\" by Simple Minds"
+                }
+            }
+        },
+        "industrial_revolution": {
+            "title": "INDUSTRIAL REVOLUTION 2.0",
+            "description": "Factory Floor Philosophy - When machines make music and music makes revolution",
+            "items": {
+                "five_year_plan": {
+                    "title": "Five Year Plan",
+                    "description": "Systematic beats for systematic change. Production quotas meet production values in perfect harmony. These tracks understand that the revolution requires both heavy machinery and heavy bass lines.",
+                    "samples": "\"The Man-Machine\" by Kraftwerk, \"Metal Machine Music\" by Lou Reed, \"Head Like a Hole\" by Nine Inch Nails, \"Firestarter\" by The Prodigy"
+                },
+                "assembly_line": {
+                    "title": "Assembly Line Anthems",
+                    "description": "Worker solidarity with synthesizer sophistication. Every beat is a hammer blow against capitalism, every melody a wrench in the machine. Music for when your day job is building the future.",
+                    "samples": "\"Working Class Hero\" by John Lennon, \"9 to 5\" by Dolly Parton, \"Big Brother\" by David Bowie, \"Power\" by Kraftwerk"
+                },
+                "concrete_jungle": {
+                    "title": "Concrete Jungle",
+                    "description": "Urban planning meets urban decay in perfect architectural harmony. When tower blocks become concert halls and underpasses become underground scenes. Music for cities built from dreams and cement.",
+                    "samples": "\"Concrete Jungle\" by Bob Marley, \"Unknown Pleasures\" by Joy Division, \"Architecture & Morality\" by Orchestral Manoeuvres in the Dark, \"Movement\" by New Order"
+                }
+            }
+        },
+        "underground_resistance": {
+            "title": "UNDERGROUND RESISTANCE",
+            "description": "Samizdat Soundtracks - When banned beats become revolutionary anthems",
+            "items": {
+                "secret_police": {
+                    "title": "Secret Police Scanner",
+                    "description": "Surveillance state meets underground rave. When your dance moves are politically subversive and your DJ is probably an informant. Music for parties that technically don't exist.",
+                    "samples": "\"Somebody's Watching Me\" by Rockwell, \"Every Breath You Take\" by The Police, \"1984\" by David Bowie, \"Big Brother\" by Stevie Wonder"
+                },
+                "black_market": {
+                    "title": "Black Market Vinyl",
+                    "description": "Contraband culture with premium production values. When Western music is forbidden fruit and every record is a revolution. These tracks understand that the best art is always banned somewhere.",
+                    "samples": "\"Money for Nothing\" by Dire Straits, \"Smuggler's Blues\" by Glenn Frey, \"White Lines\" by Grandmaster Flash, \"Blue Monday\" by New Order"
+                },
+                "glasnost_disco": {
+                    "title": "Glasnost Disco",
+                    "description": "Openness meets four-on-the-floor in beautiful transparency. When political reform comes with a disco ball and democratic revolution requires proper footwork. Music for when freedom finally learns to dance.",
+                    "samples": "\"Wind of Change\" by Scorpions, \"Freedom\" by George Michael, \"Right Here, Right Now\" by Jesus Jones, \"The Final Countdown\" by Europe"
                 }
             }
         }

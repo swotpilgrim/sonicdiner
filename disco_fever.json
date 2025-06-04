@@ -1,18 +1,91 @@
 {
-    "id": "disco_fever",
-    "title": "DISCO FEVER PALACE", 
-    "description": "Saturday Night Fever meets Studio 54's little sister. Where John Travolta's moves meet the Bee Gees' beats. Get down tonight, because the night is young and the disco ball is spinning.",
-    "categories": {
-        "saturday_night": {
-            "title": "SATURDAY NIGHT FEVER",
-            "description": "Bee Gees Classics - That staying alive energy",
-            "items": {
-                "staying_alive": {
-                    "title": "Staying Alive Special",
-                    "description": "Pure disco energy with that unmistakable Bee Gees falsetto. Music for when you need to strut down the street like you own the sidewalk.",
-                    "samples": "\"Staying Alive\" by Bee Gees, \"Dancing Queen\" by ABBA"
-                }
-            }
-        }
-    }
+   "id": "disco_fever",
+   "title": "DISCO FEVER PALACE", 
+   "description": "Saturday Night Fever meets Studio 54's little sister. Where John Travolta's moves meet the Bee Gees' beats. Get down tonight, because the night is young and the disco ball is spinning.",
+   "categories": {
+       "saturday_night": {
+           "title": "SATURDAY NIGHT FEVER",
+           "description": "Bee Gees Classics - That staying alive energy",
+           "items": {
+               "staying_alive": {
+                   "title": "Staying Alive Special",
+                   "description": "Pure disco energy with that unmistakable Bee Gees falsetto. Music for when you need to strut down the street like you own the sidewalk.",
+                   "samples": "\"Staying Alive\" by Bee Gees, \"Dancing Queen\" by ABBA"
+               },
+               "brooklyn_swagger": {
+                   "title": "Brooklyn Swagger",
+                   "description": "Working class dreams with polyester schemes. When your neighborhood becomes a dance floor and your dance moves become your destiny. These tracks understand that sometimes salvation comes with a mirror ball.",
+                   "samples": "\"Disco Duck\" by Rick Dees, \"Le Freak\" by Chic, \"I Love the Nightlife\" by Alicia Bridges, \"Last Dance\" by Donna Summer"
+               },
+               "paint_store_dreams": {
+                   "title": "Paint Store Dreams",
+                   "description": "Tony Manero's suburban escape velocity. When your day job is mixing colors but your night job is mixing magic. Music for those who know that the real world begins when the sun goes down.",
+                   "samples": "\"How Deep Is Your Love\" by Bee Gees, \"Night Fever\" by Bee Gees, \"More Than a Woman\" by Bee Gees, \"If I Can't Have You\" by Yvonne Elliman"
+               }
+           }
+       },
+       "hustle_championship": {
+           "title": "HUSTLE CHAMPIONSHIP",
+           "description": "Dance Floor Competition - When disco becomes a contact sport",
+           "items": {
+               "dance_floor_domination": {
+                   "title": "Dance Floor Domination",
+                   "description": "Competitive choreography with territorial rhythm. When your dance moves become your signature and your signature becomes your territory. These tracks understand that the best battles are fought in four-four time.",
+                   "samples": "\"Get Down Tonight\" by KC and the Sunshine Band, \"That's the Way (I Like It)\" by KC and the Sunshine Band, \"Shake, Shake, Shake\" by KC and the Sunshine Band, \"I'm Your Boogie Man\" by KC and the Sunshine Band"
+               },
+               "polyester_perfection": {
+                   "title": "Polyester Perfection",
+                   "description": "Synthetic fabric with authentic soul. When your outfit costs more than most cars and moves better than most people. Music for those who make artificial materials look like natural talent.",
+                   "samples": "\"Boogie Shoes\" by KC and the Sunshine Band, \"Love Rollercoaster\" by Ohio Players, \"Fire\" by Ohio Players, \"Skin Tight\" by Ohio Players"
+               },
+               "mirror_ball_majesty": {
+                   "title": "Mirror Ball Majesty",
+                   "description": "Fractured light with unified rhythm. When every reflection tells a story and every story ends in victory. These tracks know that sometimes the most beautiful thing about winning is watching everyone else lose.",
+                   "samples": "\"Celebration\" by Kool & The Gang, \"Ladies Night\" by Kool & The Gang, \"Get Down on It\" by Kool & The Gang, \"Jungle Boogie\" by Kool & The Gang"
+               }
+           }
+       },
+       "roller_rink": {
+           "title": "ROLLER RINK ANTHEMS",
+           "description": "Family Disco Fun - Four wheels and four-on-the-floor beats",
+           "items": {
+               "eight_wheels_of_steel": {
+                   "title": "Eight Wheels of Steel",
+                   "description": "Quadruple-axle philosophy with bearing-based transportation. When your weekend hobby becomes your life philosophy and your life philosophy involves a lot of falling down. Music for those who measure progress in bruises and distance in laps.",
+                   "samples": "\"Roller Girl\" by Steve Nicks, \"Roll with It\" by Steve Winwood, \"I'm Gonna Be (500 Miles)\" by The Proclaimers, \"Walking on Sunshine\" by Katrina and the Waves"
+               },
+               "family_skate_night": {
+                   "title": "Family Skate Night",
+                   "description": "Wholesome entertainment with competitive undertones. When family bonding involves helmets and the generation gap is measured in skating ability. These tracks prove that the family that skates together, stays together.",
+                   "samples": "\"We Are Family\" by Sister Sledge, \"He's the Greatest Dancer\" by Sister Sledge, \"Lost in Music\" by Sister Sledge, \"Thinking of You\" by Sister Sledge"
+               },
+               "backwards_skating": {
+                   "title": "Backwards Skating Mastery",
+                   "description": "Reverse engineering with retrograde sophistication. When moving backwards becomes moving forward and looking behind becomes seeing ahead. Music for those who make going in reverse look like progress.",
+                   "samples": "\"Turn Around\" by Bonnie Tyler, \"Total Eclipse of the Heart\" by Bonnie Tyler, \"It's a Heartache\" by Bonnie Tyler, \"Holding Out for a Hero\" by Bonnie Tyler"
+               }
+           }
+       },
+       "polyester_palace": {
+           "title": "POLYESTER PALACE",
+           "description": "Fashion Statement Disco - When synthetic fabrics met synthetic sounds",
+           "items": {
+               "synthetic_sophistication": {
+                   "title": "Synthetic Sophistication",
+                   "description": "Artificial materials with authentic attitude. When your entire wardrobe is petroleum-based but your style is timeless. These tracks understand that sometimes the most real thing about you is how fake you look.",
+                   "samples": "\"Le Freak\" by Chic, \"Good Times\" by Chic, \"Upside Down\" by Diana Ross, \"Love Hangover\" by Diana Ross"
+               },
+               "static_electricity": {
+                   "title": "Static Electricity",
+                   "description": "Friction-based fashion with electromagnetic elegance. When your outfit generates its own power and your presence literally sparks. Music for those who make synthetic fabrics feel electric.",
+                   "samples": "\"Electric Boogie\" by Marcia Griffiths, \"Electric Avenue\" by Eddy Grant, \"Electricity\" by OMD, \"Enola Gay\" by OMD"
+               },
+               "wash_and_wear": {
+                   "title": "Wash and Wear Wonders",
+                   "description": "Low-maintenance luxury with convenient couture. When your style philosophy is 'throw it in the machine and look fabulous.' These tracks celebrate the democracy of easy-care fashion and the liberation of wrinkle-free living.",
+                   "samples": "\"Fashion\" by David Bowie, \"Blue Jean\" by David Bowie, \"Modern Love\" by David Bowie, \"Let's Dance\" by David Bowie"
+               }
+           }
+       }
+   }
 }

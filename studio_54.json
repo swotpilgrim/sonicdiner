@@ -16,6 +16,11 @@
                     "title": "Behind the Velvet Rope",
                     "description": "Exclusive VIP energy with that untouchable glamour. You're not just dancing, you're making history. These tracks understand that some parties are so legendary they become mythology.",
                     "samples": "\"Love to Love You Baby\" by Donna Summer, \"Dancing Machine\" by Jackson 5, \"Rock the Boat\" by Hues Corporation, \"YMCA\" by Village People"
+                },
+                "mirror_ball": {
+                    "title": "Mirror Ball Majesty",
+                    "description": "Fractured light meets perfect rhythm in crystalline disco perfection. Every reflection tells a story, every beam of light is a beat. These tracks understand that sometimes the most beautiful thing about dancing is watching everyone else dance.",
+                    "samples": "\"Disco Inferno\" by The Trammps, \"I Feel Love\" by Donna Summer, \"Love Train\" by The O'Jays, \"Car Wash\" by Rose Royce"
                 }
             }
         },
@@ -27,6 +32,16 @@
                     "title": "Powder Room Politics",
                     "description": "Dangerous glamour with that edgy 70s sophistication. Equal parts seductive and reckless. These tracks capture the beautiful danger of a scene that burned too bright and too fast.",
                     "samples": "\"Cocaine\" by Eric Clapton, \"White Lines\" by Grandmaster Flash, \"Boogie Wonderland\" by Earth Wind & Fire, \"Bad Girls\" by Donna Summer"
+                },
+                "ocean_drive": {
+                    "title": "Ocean Drive Deals",
+                    "description": "Art deco drug deals with architectural appreciation. When your office has a beach view and your briefcase has a false bottom. These tracks know that the most beautiful crimes happen in the most beautiful places.",
+                    "samples": "\"White Horse\" by Laid Back, \"Smooth Operator\" by Sade, \"No Ordinary Love\" by Sade, \"Kiss of Life\" by Sade"
+                },
+                "cigarette_boats": {
+                    "title": "Cigarette Boat Chases",
+                    "description": "High-speed smuggling with aquatic elegance. When your getaway vehicle doubles as a yacht and your escape route runs through international waters. Music for those who make crime look like a water sport.",
+                    "samples": "\"Smuggler's Blues\" by Glenn Frey, \"The Heat Is On\" by Glenn Frey, \"You Belong to the City\" by Glenn Frey, \"Miami Vice\" by Glenn Frey"
                 }
             }
         },
@@ -38,6 +53,37 @@
                     "title": "Factory After Hours",
                     "description": "Artistic decadence meets pop culture revolution. Andy's camera is always rolling and everyone's a star. Music for when art and celebrity and nightlife all became the same beautiful thing.",
                     "samples": "\"Fame\" by David Bowie, \"Walk on the Wild Side\" by Lou Reed, \"Heart of Glass\" by Blondie, \"I'm Coming Out\" by Diana Ross"
+                },
+                "paparazzi_paradise": {
+                    "title": "Paparazzi Paradise",
+                    "description": "Fame-hungry photography with flashbulb philosophy. When every moment is a photo opportunity and every photo opportunity is a moment. These tracks understand that in America, being watched is the same thing as being loved.",
+                    "samples": "\"Photographer\" by Philip Glass, \"Picture This\" by Blondie, \"One Way or Another\" by Blondie, \"Call Me\" by Blondie"
+                },
+                "velvet_rope_politics": {
+                    "title": "Velvet Rope Politics",
+                    "description": "Access-level democracy with exclusive voting rights. When your guest list determines who matters and who doesn't. Music for those who understand that real power isn't political—it's social.",
+                    "samples": "\"Fashion\" by David Bowie, \"Let's Dance\" by David Bowie, \"Modern Love\" by David Bowie, \"China Girl\" by David Bowie"
+                }
+            }
+        },
+        "underground_elite": {
+            "title": "UNDERGROUND ELITE",
+            "description": "Secret Society Disco - Where the powerful play and secrets are currency",
+            "items": {
+                "manhattan_conspiracy": {
+                    "title": "Manhattan Conspiracy",
+                    "description": "High society meets low morals in marble bathrooms and mirrored ceilings. These tracks know that the real power in America isn't in Washington, it's on the dance floor at 4 AM when the cameras stop rolling.",
+                    "samples": "\"Love Hangover\" by Diana Ross, \"Last Dance\" by Donna Summer, \"Knock on Wood\" by Amii Stewart, \"He's the Greatest Dancer\" by Sister Sledge"
+                },
+                "billionaire_boys": {
+                    "title": "Billionaire Boys Club",
+                    "description": "Old money meets new excess in champagne-soaked revelry. When your trust fund has a trust fund and your problems require Swiss bank accounts to solve. Music for those who own everything and want more.",
+                    "samples": "\"Money (That's What I Want)\" by Barrett Strong, \"Rich Girl\" by Hall & Oates, \"Luxury\" by Azealia Banks, \"Material Girl\" by Madonna"
+                },
+                "warhol_tapes": {
+                    "title": "The Warhol Tapes",
+                    "description": "Art world scandal with pop culture perfection. Every conversation is recorded, every moment is performance, every song is a masterpiece waiting to happen. Music for when your life becomes your art becomes your legacy.",
+                    "samples": "\"Take Me to the River\" by Talking Heads, \"Once in a Lifetime\" by Talking Heads, \"Rapture\" by Blondie, \"Pull Up to the Bumper\" by Grace Jones"
                 }
             }
         }

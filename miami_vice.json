@@ -1,18 +1,91 @@
 {
-    "id": "miami_vice",
-    "title": "MIAMI VICE MARINA",
-    "description": "Neon nights and cocaine cowboys. Where Don Johnson's stubble meets Jan Hammer's synthesizers. Welcome to the 1980s, where every sunset looks like a movie and every car chase has a soundtrack.",
-    "categories": {
-        "synthwave": {
-            "title": "SYNTHWAVE SUNSET",
-            "description": "Jan Hammer's Dream - Synthesized perfection with that Vice vibe",
-            "items": {
-                "crockett_theme": {
-                    "title": "Crockett's Theme", 
-                    "description": "Pure 80s synthesizer magic. Every song sounds like driving a Ferrari Testarossa through neon-lit Miami streets.",
-                    "samples": "\"Crockett's Theme\" by Jan Hammer, \"In the Air Tonight\" by Phil Collins"
-                }
-            }
-        }
-    }
+   "id": "miami_vice",
+   "title": "MIAMI VICE MARINA",
+   "description": "Neon nights and cocaine cowboys. Where Don Johnson's stubble meets Jan Hammer's synthesizers. Welcome to the 1980s, where every sunset looks like a movie and every car chase has a soundtrack.",
+   "categories": {
+       "synthwave": {
+           "title": "SYNTHWAVE SUNSET",
+           "description": "Jan Hammer's Dream - Synthesized perfection with that Vice vibe",
+           "items": {
+               "crockett_theme": {
+                   "title": "Crockett's Theme", 
+                   "description": "Pure 80s synthesizer magic. Every song sounds like driving a Ferrari Testarossa through neon-lit Miami streets.",
+                   "samples": "\"Crockett's Theme\" by Jan Hammer, \"In the Air Tonight\" by Phil Collins"
+               },
+               "ferrari_dreams": {
+                   "title": "Ferrari Dreams",
+                   "description": "Testarossa fantasies with cocaine confidence. When your car costs more than most houses and your sunglasses cost more than most cars. These tracks know that sometimes the journey is more important than the destination, especially in a supercar.",
+                   "samples": "\"Miami Vice Theme\" by Jan Hammer, \"Tubbs and Valerie\" by Jan Hammer, \"Evan\" by Jan Hammer, \"Flashback\" by Jan Hammer"
+               },
+               "pastel_suit": {
+                   "title": "Pastel Suit Power",
+                   "description": "Don Johnson sophistication with T-shirt rebellion. When casual Friday meets federal investigation and somehow everyone looks fabulous. Music for those who make linen look dangerous.",
+                   "samples": "\"Heartbeat\" by Don Johnson, \"Heartache Away\" by Don Johnson, \"Till I Loved You\" by Barbra Streisand & Don Johnson, \"Can't Take Your Memory\" by Don Johnson"
+               }
+           }
+       },
+       "scarface_swagger": {
+           "title": "SCARFACE SWAGGER",
+           "description": "Cuban-American Dreams - When the world becomes yours through powder and power",
+           "items": {
+               "world_is_yours": {
+                   "title": "The World Is Yours",
+                   "description": "Tony Montana's ascension philosophy with immigrant ambition. When the American Dream requires a Colombian supply chain and every deal is life or death. These tracks understand that in America, you can have anything if you're willing to take everything.",
+                   "samples": "\"Scarface (Push It to the Limit)\" by Paul Engemann, \"Rush Rush\" by Debbie Harry, \"She's on Fire\" by Amy Holland, \"Gina and Elvira\" by Giorgio Moroder"
+               },
+               "chainsaw_diplomacy": {
+                   "title": "Chainsaw Diplomacy",
+                   "description": "Business negotiations with power tool persuasion. When your conference room is a hotel bathroom and your PowerPoint presentation involves actual power. Music for those who make hostile takeovers literally hostile.",
+                   "samples": "\"Maniac\" by Michael Sembello, \"What a Feeling\" by Irene Cara, \"Gloria\" by Laura Branigan, \"Call Me\" by Blondie"
+               },
+               "biscayne_bay": {
+                   "title": "Biscayne Bay Empire",
+                   "description": "Waterfront real estate with criminal appreciation. When your mansion overlooks the ocean and your business overlooks the law. These tracks capture that beautiful moment when crime pays for the best views in Miami.",
+                   "samples": "\"Money for Nothing\" by Dire Straits, \"I Want Your Sex\" by George Michael, \"Pour Some Sugar on Me\" by Def Leppard, \"Livin' on a Prayer\" by Bon Jovi"
+               }
+           }
+       },
+       "art_deco": {
+           "title": "ART DECO LOUNGE",
+           "description": "South Beach Sophistication - Pastel elegance meets tropical noir",
+           "items": {
+               "south_beach_noir": {
+                   "title": "South Beach Noir",
+                   "description": "Pastel shadows with tropical darkness. When paradise becomes a crime scene and every sunset looks like evidence. These tracks understand that the most beautiful places hide the ugliest secrets.",
+                   "samples": "\"After Dark\" by Tito & Tarantula, \"Strange Love\" by Depeche Mode, \"Blue Velvet\" by Bobby Vinton, \"In Dreams\" by Roy Orbison"
+               },
+               "deco_detective": {
+                   "title": "Deco Detective",
+                   "description": "Geometric mysteries with linear logic. When your murder weapon matches your interior design and your alibis are as clean as your architecture. Music for crimes committed with impeccable taste.",
+                   "samples": "\"Maneater\" by Hall & Oates, \"Private Eyes\" by Hall & Oates, \"Method of Modern Love\" by Hall & Oates, \"Out of Touch\" by Hall & Oates"
+               },
+               "flamingo_hotel": {
+                   "title": "Flamingo Hotel Lounge",
+                   "description": "Tropical sophistication with hurricane-force elegance. When your vacation resort doubles as a money laundering operation and the drinks are stronger than the alibis. Music for those who mix business with pleasure in international waters.",
+                   "samples": "\"Kokomo\" by The Beach Boys, \"Margaritaville\" by Jimmy Buffett, \"Come Monday\" by Jimmy Buffett, \"Escape (The Piña Colada Song)\" by Rupert Holmes"
+               }
+           }
+       },
+       "flamingo_fever": {
+           "title": "FLAMINGO FEVER",
+           "description": "Tropical Vice - When paradise becomes a crime scene",
+           "items": {
+               "everglades_escape": {
+                   "title": "Everglades Escape",
+                   "description": "Swampland sophistication with alligator elegance. When your getaway route runs through protected wetlands and your safe house has scales. Music for those who make nature preserves their personal playground.",
+                   "samples": "\"Swamp Thing\" by The Chameleons, \"Born on the Bayou\" by Creedence Clearwater Revival, \"Green River\" by Creedence Clearwater Revival, \"Fortunate Son\" by Creedence Clearwater Revival"
+               },
+               "key_west_connection": {
+                   "title": "Key West Connection",
+                   "description": "Island-hopping with international implications. When your vacation home is ninety miles from Cuba and your neighbors don't ask questions. These tracks know that the best hiding places are also the best vacation spots.",
+                   "samples": "\"Southern Cross\" by Crosby, Stills & Nash, \"Sailing\" by Christopher Cross, \"Ride Like the Wind\" by Christopher Cross, \"Arthur's Theme\" by Christopher Cross"
+               },
+               "hurricane_season": {
+                   "title": "Hurricane Season",
+                   "description": "Storm-chasing with meteorological money laundering. When your business plan depends on natural disasters and your insurance policies have interesting beneficiaries. Music for those who make weather patterns their stock portfolio.",
+                   "samples": "\"Rock You Like a Hurricane\" by Scorpions, \"Riders on the Storm\" by The Doors, \"Have You Ever Seen the Rain?\" by Creedence Clearwater Revival, \"Who'll Stop the Rain\" by Creedence Clearwater Revival"
+               }
+           }
+       }
+   }
 }

@@ -1,6 +1,6 @@
 {
     "id": "gordons_steakhouse",
-    "title": "GORDON'S GOLDEN BULL STEAKHOUSE",
+    "title": "Stratton Oakmont Steakhouse",
     "description": "Wall Street yuppie excess meets Miami Vice swagger. Where Gordon Gekko orders his steaks bloody and his cocaine pure. Greed is good, but the playlist is better. Power ties optional, power moves mandatory.",
     "categories": {
         "power_breakfast": {
@@ -11,6 +11,16 @@
                     "title": "Morning Trades",
                     "description": "Corporate domination with that market-opening energy. Every song sounds like closing a million-dollar deal before 9 AM. Music for hostile takeovers and hostile attitudes.",
                     "samples": "\"Money for Nothing\" by Dire Straits, \"Working for the Weekend\" by Loverboy, \"Everybody Wants to Rule the World\" by Tears for Fears, \"Take on Me\" by a-ha"
+                },
+                "insider_trading": {
+                    "title": "Insider Trading",
+                    "description": "Information asymmetry with synthesized superiority. When your breakfast meeting determines who wins and loses before the market even opens. These tracks understand that the real money is made with knowledge, not luck.",
+                    "samples": "\"Owner of a Lonely Heart\" by Yes, \"Don't You (Forget About Me)\" by Simple Minds, \"Relax\" by Frankie Goes to Hollywood, \"New Gold Dream\" by Simple Minds"
+                },
+                "yuppie_manifesto": {
+                    "title": "Yuppie Manifesto",
+                    "description": "Young urban professional perfection with MBA arrogance. When your college degree costs more than most people's houses and you're worth every penny. Music for those who turned selfishness into an art form.",
+                    "samples": "\"Material Girl\" by Madonna, \"Money Changes Everything\" by Cyndi Lauper, \"9 to 5\" by Dolly Parton, \"She Works Hard for the Money\" by Donna Summer"
                 }
             }
         },
@@ -22,6 +32,16 @@
                     "title": "Hostile Takeover",
                     "description": "Ruthless corporate anthems with synthesized aggression. These tracks understand that business is war and war requires a soundtrack. Music for boardroom battles and insider trading.",
                     "samples": "\"Money\" by Pink Floyd, \"Burning Down the House\" by Talking Heads, \"Sweet Dreams\" by Eurythmics, \"Blue Monday\" by New Order"
+                },
+                "vulture_capitalism": {
+                    "title": "Vulture Capitalism",
+                    "description": "Asset stripping with aristocratic elegance. When destroying companies becomes performance art and bankruptcy becomes beautiful. These tracks know that sometimes you have to break things to make them profitable.",
+                    "samples": "\"Tainted Love\" by Soft Cell, \"Bizarre Love Triangle\" by New Order, \"Personal Jesus\" by Depeche Mode, \"Policy of Truth\" by Depeche Mode"
+                },
+                "leveraged_buyout": {
+                    "title": "Leveraged Buyout",
+                    "description": "Debt-fueled domination with compound interest intensity. Using other people's money to buy other people's dreams. These songs understand that the best acquisitions are hostile and the best profits are leveraged.",
+                    "samples": "\"Love Is a Battlefield\" by Pat Benatar, \"Final Countdown\" by Europe, \"Holding Out for a Hero\" by Bonnie Tyler, \"Total Eclipse of the Heart\" by Bonnie Tyler"
                 }
             }
         },
@@ -33,6 +53,37 @@
                     "title": "Business Card Envy",
                     "description": "Sophisticated psychopathy with impeccable production values. Patrick Bateman's morning routine set to music. These tracks understand that murder and mergers require the same attention to detail.",
                     "samples": "\"In the Air Tonight\" by Phil Collins, \"Sussudio\" by Phil Collins, \"Hip to Be Square\" by Huey Lewis, \"True\" by Spandau Ballet"
+                },
+                "dorsia_reservations": {
+                    "title": "Dorsia Reservations",
+                    "description": "Impossible exclusivity with homicidal sophistication. When your restaurant choice becomes a matter of life and death, literally. These tracks know that true power isn't just getting a table—it's making sure no one else can.",
+                    "samples": "\"Against All Odds\" by Phil Collins, \"Easy Lover\" by Phil Collins, \"One More Night\" by Phil Collins, \"Take Me Home\" by Phil Collins"
+                },
+                "morning_routine": {
+                    "title": "Morning Routine",
+                    "description": "Meticulous self-care with murderous precision. Two thousand stomach crunches and a flawless skincare regimen before the first kill of the day. Music for when personal grooming becomes performance art.",
+                    "samples": "\"I Can't Go for That\" by Hall & Oates, \"Private Eyes\" by Hall & Oates, \"Rich Girl\" by Hall & Oates, \"Maneater\" by Hall & Oates"
+                }
+            }
+        },
+        "champagne_cocaine": {
+            "title": "CHAMPAGNE & COCAINE",
+            "description": "Miami Vice Excess - Where Wall Street meets Scarface in powder-white suits",
+            "items": {
+                "white_suit": {
+                    "title": "White Suit Special",
+                    "description": "Miami Vice swagger meets Wall Street ambition. Crockett and Tubbs closing deals on yachts while the synthesizers play. These tracks understand that sometimes the most profitable business is conducted in international waters.",
+                    "samples": "\"Crockett's Theme\" by Jan Hammer, \"Miami Vice Theme\" by Jan Hammer, \"Flashdance\" by Irene Cara, \"Maniac\" by Michael Sembello"
+                },
+                "yacht_rock": {
+                    "title": "Yacht Rock Portfolio",
+                    "description": "Smooth sailing with offshore accounts. Corporate criminals with soft rock sensibilities and harder drug habits. Music for when your tax shelter has its own tax shelter and your boat is bigger than most people's houses.",
+                    "samples": "\"Sailing\" by Christopher Cross, \"Africa\" by Toto, \"Rosanna\" by Toto, \"What a Fool Believes\" by The Doobie Brothers"
+                },
+                "scarface_suite": {
+                    "title": "Scarface Corporate Suite",
+                    "description": "When the world becomes yours through hostile acquisition. Tony Montana meets Gordon Gekko in marble-floored boardrooms. These tracks know that in America, you can have anything you want if you're willing to take it.",
+                    "samples": "\"Scarface (Push It to the Limit)\" by Paul Engemann, \"Rush Rush\" by Debbie Harry, \"She's on Fire\" by Amy Holland, \"Gina and Elvira\" by Giorgio Moroder"
                 }
             }
         }

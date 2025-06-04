@@ -79,6 +79,11 @@
                     "title": "Factory Floor",
                     "description": "Warehouse rave meets assembly line rhythms. Dance like your life depends on it, because it does. These songs capture the poetry of industrial spaces repurposed for joy, where the machinery of production becomes the machinery of transcendence.",
                     "samples": "\"Firestarter\" by The Prodigy, \"Born Slippy\" by Underworld, \"Block Rockin' Beats\" by The Chemical Brothers, \"Song 2\" by Blur"
+                },
+                "machine_god": {
+                    "title": "Machine God Worship",
+                    "description": "When technology becomes theology and assembly lines become altars. These tracks understand that in the future, we don't use machines—we become them, and somehow that's beautiful.",
+                    "samples": "\"The Man-Machine\" by Kraftwerk, \"Metal\" by Gary Numan, \"Cars\" by Gary Numan, \"Humanoid\" by Klaus Schulze"
                 }
             }
         },
@@ -95,6 +100,11 @@
                     "title": "Pulse Rifle",
                     "description": "Weapon selection meets beat selection. Choose your track, choose your destruction. These songs understand that in the future, warfare and DJing become indistinguishable arts, both requiring perfect timing and devastating drops.",
                     "samples": "\"We Have Explosive\" by The Future Sound of London, \"Papua New Guinea\" by The Future Sound of London, \"Cascade\" by The Future Sound of London, \"Dead Cities\" by The Future Sound of London"
+                },
+                "zone_records": {
+                    "title": "Zone Records",
+                    "description": "Breaking the sound barrier at light speed. When racing becomes transcendence and speed becomes spirituality. These tracks capture that moment when technology and humanity merge in perfect, dangerous harmony.",
+                    "samples": "\"Bombscare\" by 2 Bad Mice, \"Your Sound\" by Leftfield, \"Chime\" by Orbital, \"Energy Flash\" by Joey Beltram"
                 }
             }
         },
@@ -111,6 +121,11 @@
                     "title": "Augmentation Station",
                     "description": "Human enhancement through sonic modification. Upgrade your ears, upgrade your soul. These songs ask the eternal question: if you can improve the human body, why not start with its ability to appreciate good music?",
                     "samples": "\"The Synth\" by Alexander Brandon, \"Naval Base\" by Alexander Brandon, \"Versalife\" by Alexander Brandon, \"MJ12 Labs\" by Alexander Brandon"
+                },
+                "shadow_government": {
+                    "title": "Shadow Government",
+                    "description": "Illuminati orchestrations with electronic surveillance symphonies. When the conspiracy is real but the music is even better. These tracks know that the truth is out there, and it has an excellent beat.",
+                    "samples": "\"Everybody Knows\" by Leonard Cohen, \"The Sound of Silence\" by Simon & Garfunkel, \"Paranoid Android\" by Radiohead, \"Welcome to the Machine\" by Pink Floyd"
                 }
             }
         }

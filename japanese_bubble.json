@@ -16,6 +16,11 @@
                     "title": "Neon Nights",
                     "description": "Late-night Tokyo vibes with synthesized perfection. Every street corner has a vending machine and every vending machine plays the perfect song. Music for walking through Shibuya at 2 AM when the city never sleeps.",
                     "samples": "\"Magic Ways\" by Tatsuro Yamashita, \"Sweetest Music\" by Seiko Matsuda, \"Bay City\" by Junko Yagami, \"Telephone Number\" by Junko Ohashi"
+                },
+                "shibuya_crossing": {
+                    "title": "Shibuya Crossing",
+                    "description": "Rush hour sophistication with pedestrian perfection. When commuting becomes choreography and every step is in rhythm. These tracks capture that beautiful chaos of Tokyo life where millions of people somehow move in perfect harmony.",
+                    "samples": "\"For You\" by Tatsuro Yamashita, \"Ride on Time\" by Tatsuro Yamashita, \"Love Talkin'\" by Toshiki Kadomatsu, \"Timely!!\" by Anri"
                 }
             }
         },
@@ -27,6 +32,16 @@
                     "title": "Pachinko Paradise",
                     "description": "Hyper-filtered disco samples meets arcade culture. Every ball drop is a beat drop. These tracks understand that the future was supposed to be more colorful and the past was always more funky than we remembered.",
                     "samples": "\"Night Tempo\" by Night Tempo, \"Desired\" by Desired, \"Macross 82-99\" by Macross 82-99, \"Yung Bae\" by Yung Bae"
+                },
+                "vaporwave_velocity": {
+                    "title": "Vaporwave Velocity",
+                    "description": "Nostalgic acceleration through digital dreamscapes. When the past becomes the future and the future sounds like a slowed-down commercial from 1987. These tracks prove that sometimes the best way forward is sideways through time.",
+                    "samples": "\"Saint Pepsi\" by Saint Pepsi, \"Flamingo Funk\" by Yung Bae, \"Selfish High Heels\" by Yung Bae, \"Something About You\" by Macross 82-99"
+                },
+                "arcade_cabinet": {
+                    "title": "Arcade Cabinet Dreams",
+                    "description": "Quarter-slot philosophy with pixel-perfect beats. When video games become lifestyle and lifestyle becomes performance art. Music for those who measure time in high scores and space in screen pixels.",
+                    "samples": "\"Night Cruising\" by Desired, \"Computer Love\" by Desired, \"Timeless\" by Night Tempo, \"Your Eyes\" by Night Tempo"
                 }
             }
         },
@@ -38,6 +53,37 @@
                     "title": "Salary Man Swagger",
                     "description": "Corporate confidence with jazz fusion sophistication. Every Honda is a Lamborghini and every office building reaches toward tomorrow. Music for when the economy was so good it felt like cheating.",
                     "samples": "\"Breezin'\" by George Benson, \"Morning Dance\" by Spyro Gyra, \"Feels So Good\" by Chuck Mangione, \"Countdown\" by Jupiter"
+                },
+                "real_estate_fantasy": {
+                    "title": "Real Estate Fantasy",
+                    "description": "Property speculation with architectural appreciation. When every building is an investment and every investment is a building. These tracks capture that beautiful moment when money grew on concrete trees.",
+                    "samples": "\"Money for Nothing\" by Dire Straits, \"Private Dancer\" by Tina Turner, \"What's Love Got to Do with It\" by Tina Turner, \"We Don't Need Another Hero\" by Tina Turner"
+                },
+                "nikkei_rising": {
+                    "title": "Nikkei Rising",
+                    "description": "Stock market symphonies with yen-denominated dreams. When every number goes up and every investment seems golden. Music for those who thought the party would never end and almost made it work.",
+                    "samples": "\"Owner of a Lonely Heart\" by Yes, \"Blue Monday\" by New Order, \"Sweet Dreams\" by Eurythmics, \"Tainted Love\" by Soft Cell"
+                }
+            }
+        },
+        "anime_aesthetics": {
+            "title": "ANIME AESTHETIC LOUNGE",
+            "description": "Kawaii Future Pop - When Japan exported dreams in cel animation and vinyl",
+            "items": {
+                "sailor_moon": {
+                    "title": "Sailor Moon Cocktail",
+                    "description": "Magical girl energy with cosmic disco vibes. Fighting evil by moonlight, winning love by daylight, and looking fabulous while doing both. These tracks understand that saving the world should always have the perfect soundtrack.",
+                    "samples": "\"Moonlight Densetsu\" by DALI, \"Heart Moving\" by Misae Takamatsu, \"Princess Moon\" by Ushio Hashimoto, \"Tuxedo Mirage\" by Peach Hips"
+                },
+                "bubble_economy": {
+                    "title": "Bubble Economy Dreams",
+                    "description": "When money grew on trees and every investment was golden. Optimistic excess with synthesized perfection. These songs capture that beautiful moment when Japan's future looked infinite and every salary man felt like a millionaire.",
+                    "samples": "\"Timely!!\" by Anri, \"Windy Summer\" by Kingo Hamada, \"Dancing All Night\" by Miki Matsubara, \"Weekend\" by Schole"
+                },
+                "kawaii_future": {
+                    "title": "Kawaii Future Bass",
+                    "description": "Cute meets cutting-edge in neon-soaked perfection. Hello Kitty with synthesizers, Pokémon with perfect production values. These tracks represent Japan's gift to the world: making the future adorable.",
+                    "samples": "\"Cruel Angel's Thesis\" by Yoko Takahashi, \"Tank!\" by The Seatbelts, \"Inner Universe\" by Origa, \"Rise\" by Gabriela Robin"
                 }
             }
         }

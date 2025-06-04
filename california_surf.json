@@ -11,6 +11,79 @@
                     "title": "Good Vibrations Special",
                     "description": "Pure California harmony with that Pet Sounds sophistication. Every song sounds like driving PCH with the top down and the ocean on your right.",
                     "samples": "\"Good Vibrations\" by The Beach Boys, \"California Gurls\" by The Beach Boys, \"Surfin' USA\" by The Beach Boys"
+                },
+                "pet_sounds_perfection": {
+                    "title": "Pet Sounds Perfection",
+                    "description": "Brian Wilson's studio genius with symphonic surf arrangements. When pop music becomes high art and California becomes a state of mind. These tracks prove that the simplest songs can contain infinite complexity.",
+                    "samples": "\"God Only Knows\" by The Beach Boys, \"Wouldn't It Be Nice\" by The Beach Boys, \"Caroline, No\" by The Beach Boys, \"Don't Worry Baby\" by The Beach Boys"
+                },
+                "wilson_brothers": {
+                    "title": "Wilson Brothers Harmony",
+                    "description": "Sibling rivalry channeled into celestial harmonies. When family dysfunction creates the most beautiful sounds on earth. These songs understand that sometimes the best art comes from the most complicated relationships.",
+                    "samples": "\"I Get Around\" by The Beach Boys, \"Help Me, Rhonda\" by The Beach Boys, \"California Girls\" by The Beach Boys, \"Kokomo\" by The Beach Boys"
+                }
+            }
+        },
+        "surf_rock": {
+            "title": "SURF ROCK CLASSICS",
+            "description": "Reverb-Drenched Instrumentals - Dick Dale meets pipeline perfection",
+            "items": {
+                "pipeline": {
+                    "title": "Pipeline Special",
+                    "description": "Pure surf guitar with that wet reverb sound. Dick Dale's guitar meets the curl of the perfect wave. These tracks understand that some of the best music has no words, just the sound of six strings and the ocean calling.",
+                    "samples": "\"Pipeline\" by The Chantays, \"Misirlou\" by Dick Dale, \"Walk Don't Run\" by The Ventures, \"Wipe Out\" by The Surfaris"
+                },
+                "big_wednesday": {
+                    "title": "Big Wednesday",
+                    "description": "Epic surf sessions with cinematic scope. When riding waves becomes a spiritual experience and every set tells the story of California itself. Music for those who understand that surfing is more than sport—it's religion.",
+                    "samples": "\"Penetration\" by The Pyramids, \"Surf Beat\" by Dick Dale, \"Bulldog\" by The Fireballs, \"Thunder Wave\" by The Lively Ones"
+                },
+                "endless_summer": {
+                    "title": "Endless Summer Sessions",
+                    "description": "Documentary perfection with wanderlust energy. Bruce Brown's camera following perfect waves around the world. These tracks capture that beautiful obsession with finding the perfect wave, the perfect moment, the perfect summer that never ends.",
+                    "samples": "\"Theme from A Summer Place\" by Percy Faith, \"California Sun\" by The Rivieras, \"Surfer Joe\" by The Surfaris, \"Mr. Moto\" by The Belairs"
+                }
+            }
+        },
+        "van_life": {
+            "title": "VW BUS ROAD TRIPS",
+            "description": "Hippie Highway Adventures - Folk rock meets freedom on four wheels",
+            "items": {
+                "magic_bus": {
+                    "title": "Magic Bus Chronicles",
+                    "description": "Volkswagen wanderlust with folk rock freedom. Every mile is a memory and every breakdown is an adventure. These tracks understand that the best journeys happen when you're not in a hurry to get anywhere.",
+                    "samples": "\"Magic Bus\" by The Who, \"Going Up the Country\" by Canned Heat, \"Creeque Alley\" by The Mamas & The Papas, \"California Dreamin'\" by The Mamas & The Papas"
+                },
+                "highway_one": {
+                    "title": "Highway One Odyssey",
+                    "description": "Pacific Coast cruising with windows down and worries behind. Big Sur meets Monterey in a symphony of switchbacks and sea spray. Music for when the journey becomes more important than any destination.",
+                    "samples": "\"Ventura Highway\" by America, \"Hotel California\" by Eagles, \"California Love\" by 2Pac, \"Under the Bridge\" by Red Hot Chili Peppers"
+                },
+                "sunset_strip": {
+                    "title": "Sunset Strip Sessions",
+                    "description": "LA folk rock with Laurel Canyon soul. When the counterculture had record deals and the revolution was televised. These tracks capture that moment when hippie ideals met Hollywood dreams and somehow both survived.",
+                    "samples": "\"For What It's Worth\" by Buffalo Springfield, \"Mr. Tambourine Man\" by The Byrds, \"Suite: Judy Blue Eyes\" by Crosby, Stills & Nash, \"Fire and Rain\" by James Taylor"
+                }
+            }
+        },
+        "malibu_vibes": {
+            "title": "MALIBU SUNSET LOUNGE",
+            "description": "Sophisticated Beach House - Where surf culture meets wine culture",
+            "items": {
+                "beach_house": {
+                    "title": "Beach House Sophistication",
+                    "description": "Upscale coastal vibes with that Malibu money energy. When your beach house has a wine cellar and your surfboard costs more than most cars. Music for sunset cocktails on private beaches.",
+                    "samples": "\"Surfin' Bird\" by The Trashmen, \"Kokomo\" by The Beach Boys, \"Escape (The Piña Colada Song)\" by Rupert Holmes, \"Margaritaville\" by Jimmy Buffett"
+                },
+                "point_break": {
+                    "title": "Point Break Philosophy",
+                    "description": "Zen and the art of wave riding. Patrick Swayze meets Buddha on a longboard. These tracks understand that surfing is meditation in motion, a way of touching something eternal through temporary perfection.",
+                    "samples": "\"Deep\" by Pearl Jam, \"Alive\" by Pearl Jam, \"Under Pressure\" by Queen & David Bowie, \"Riders on the Storm\" by The Doors"
+                },
+                "california_dreaming": {
+                    "title": "California Dreaming Deluxe",
+                    "description": "Golden State of mind with premium production values. When the California dream comes with a trust fund and connections in the industry. Music for those who moved to LA and actually made it.",
+                    "samples": "\"California Love\" by 2Pac ft. Dr. Dre, \"Going Back to Cali\" by LL Cool J, \"I Love L.A.\" by Randy Newman, \"Beverly Hills\" by Weezer"
                 }
             }
         }

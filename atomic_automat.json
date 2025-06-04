@@ -58,6 +58,11 @@
                     "title": "Casino Royale",
                     "description": "Secret agent sophistication with a license to thrill. Baccarat tables on space stations, vodka martinis in zero-g. These songs understand that the most dangerous game is always played in the most elegant settings, whether on Earth or in orbit.",
                     "samples": "\"Goldfinger\" by Shirley Bassey, \"Secret Agent Man\" by Johnny Rivers, \"Thunderball\" by Tom Jones, \"Pump It\" by Black Eyed Peas"
+                },
+                "international_playboy": {
+                    "title": "International Playboy",
+                    "description": "Cosmopolitan sophistication with a passport full of stamps. Hugh Hefner meets James Bond in Monte Carlo casinos and Swiss ski chalets. Music for those who collect countries like other people collect records.",
+                    "samples": "\"Diamonds Are Forever\" by Shirley Bassey, \"The Good Life\" by Tony Bennett, \"Fly Me to the Moon\" by Frank Sinatra, \"Love Is Here to Stay\" by Ella Fitzgerald"
                 }
             }
         },
@@ -74,6 +79,11 @@
                     "title": "Chrome Hearts Club",
                     "description": "Metallic romance in the vacuum of space. Robot lovers and android dreams. These songs explore what happens when hearts are chrome and love is programmed, but somehow still feels real. The poetry of artificial emotion.",
                     "samples": "\"I Dream of Jeannie\" theme, \"Telstar\" by The Tornados, \"Mr. Roboto\" by Styx, \"Robot Rock\" by Daft Punk"
+                },
+                "space_age_bachelor": {
+                    "title": "Space Age Bachelor Pad",
+                    "description": "Cosmic seduction with atomic cocktails. When your love nest orbits Saturn and your waterbed is actually a gravity well. These tracks understand that the future of romance involves a lot more chrome and much better lighting.",
+                    "samples": "\"Space Age Love Song\" by A Flock of Seagulls, \"Planet Claire\" by The B-52's, \"Space Oddity\" by David Bowie, \"Rocket Man\" by Elton John"
                 }
             }
         }
